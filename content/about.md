@@ -20,8 +20,10 @@ We look forward to being a part of your journey to financial sustainability and 
 
 <div id="teamaj" class="anchor"></div>
 
-### Abhinav Jain – Founder
+### Abhinav Jain
 
+> Advisor - Investments, Insurance & NRI Services
+> 
 > PGDBM (Finance & Marketing) & MBA (Marketing)
 >
 > Experienced in financial advisory for Vitt Seva's Investments & Insurance options Abhinav has a stronghold on the majority of Life, Medical & General insurance products, Mutual funds, Pre IPOs & other moderate-risk investment products. He is your go-to person for all things Investment & Insurance. He enjoys interacting with and serving Start-Ups, NRIs & HNIs for their financial advisory needs. He also has rich experience of a decade in the Education, Training & Skill Development sector's various roles, which helps him in connecting and understanding the youth for their new-age financial requirements.
@@ -51,43 +53,3 @@ Previously she has also had experience in intraday trading services for clients 
 
 ------
 
-<div id="teamvg" class="anchor"></div>
-
-### Vikash Gupta
-
-> Advisor - Accounting & Tax Planning, B. Com. (Accounting)
-
-------
-
-<div id="teamvkr" class="anchor"></div>
-
-### Vikas Kumar
-
-> Advisor - Banking (Business & Individuals) & Loans, BCA, MBA (Marketing), Pursuing LLB
-
-------
-
-<div id="teamaj" class="anchor"></div>
-
-### Aman Jain
-
-------
-
-<div id="teamnk" class="anchor"></div>
-
-### Nany Kothari
-
-> B. E. Electronics & Communication, Medical Insurance & Business Funding
-
-------
-
-<div id="teamps" class="anchor"></div>
-
-### Pommy Saha
-
-------
-
-
-### Lakshman Sharma
-
-> Claims Settlements & General Insurance
