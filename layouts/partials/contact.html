@@ -1,0 +1,131 @@
+<div class="container" id="contact">
+
+    <div class="row">
+        <div class="col-md-8">
+
+            <section>
+
+                {{ .Content }}
+                <div class="heading">
+                  <h3>{{ i18n "contactForm" }}</h3>
+                </div>
+
+                {{ if isset .Site.Params "formspree_action" }}
+
+                <div class="heading">
+                  <h3>{{ i18n "contactForm" }}</h3>
+                </div>
+
+                <div id="contact-message"></div>
+
+                <form {{ with .Site.Params.contact_form_ajax }}class="contact-form-ajax"{{ else }}{{ end }} method="post" action="{{ .Site.Params.formspree_action }}">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                              <label for="name">{{ i18n "contactName" }}</label>
+                                <input type="text" class="form-control" name="name" id="name" required autofocus>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label for="email">{{ i18n "contactMail" }}</label>
+                                <input type="email" autocomplete="email" class="form-control" name="email" id="email" required>
+                            </div>
+                        </div>
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <label for="services">{{ i18n "serviceChoice" }}</label>
+                                <div class="row">
+                                <div class="col-sm-3"><input type="checkbox" name="services" value="accounting-and-tax-filing"> Accounting/Tax Filing</div>
+                                <div class="col-sm-3"><input type="checkbox" name="services" value="insurance"> Insurance</div>
+                                <div class="col-sm-3"><input type="checkbox" name="services" value="claim-settlement"> Claim Settlement</div>
+                                <div class="col-sm-3"><input type="checkbox" name="services" value="loans"> Loans</div>
+                                </div>
+                                <div class="row">
+                                <div class="col-sm-3"><input type="checkbox" name="services" value="investments"> Investments</div>
+                                <div class="col-sm-3"><input type="checkbox" name="services" value="funding-and-finance"> Funding & Finance <br></div>
+                                <div class="col-sm-3"><input type="checkbox" name="services" value="business-banking"> Business Banking</div>
+                                <div class="col-sm-6"><input type="checkbox" name="services" value="nri-services"> NRI Services <br></div>   
+                                </div>                         
+                            </div>
+                        </div>   
+
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label for="phone">{{ i18n "contactPhone" }}</label>
+                                <input type="email" autocomplete="email" class="form-control" name="email" id="email" required>
+                            </div>
+                        </div>
+
+
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                              <label for="message">{{ i18n "contactMessage" }}</label>
+                                <textarea id="message" class="form-control" name="message" rows=4></textarea>
+                            </div>
+                        </div>
+                        {{ if and .Site.Params.enableRecaptchaInContactForm .Site.Params.googleRecaptchaKey }}
+                        <div class="col-sm-12">
+                            <div class="g-recaptcha" data-sitekey="{{ .Site.Params.googleRecaptchaKey }}"></div>
+                            <br/>
+                        </div>
+                        {{ end }}
+
+                        <div class="col-sm-12 text-center">
+                          <button type="submit" class="btn btn-template-main"><i class="far fa-envelope"></i> {{ i18n "contactSend" }}</button>
+
+                        </div>
+                    </div>
+                    <!-- /.row -->
+                </form>
+
+                {{ end }}
+
+    <div class="row">       
+        <div class="col-sm-12">         
+                <iframe
+                  src="https://link.mypipeline.co.in/widget/form/Mh3hATTjNFebydLyhPkj"
+                  style="width:100%;height:100%;border:none;border-radius:5px"
+                  id="inline-Mh3hATTjNFebydLyhPkj" 
+                  data-layout="{'id':'INLINE'}"
+                  data-trigger-type="alwaysShow"
+                  data-trigger-value=""
+                  data-activation-type="alwaysActivated"
+                  data-activation-value=""
+                  data-deactivation-type="neverDeactivate"
+                  data-deactivation-value=""
+                  data-form-name="Service Specific Inquiry Form"
+                  data-height="1673"
+                  data-layout-iframe-id="inline-Mh3hATTjNFebydLyhPkj"
+                  data-form-id="Mh3hATTjNFebydLyhPkj"
+                  title="Service Specific Inquiry Form"
+                      >
+                </iframe>
+                <script src="https://link.mypipeline.co.in/js/form_embed.js"></script>
+        </div>
+    </div>
+
+            </section>
+
+        </div>
+
+        <div class="col-md-4">
+
+            {{ if isset .Site.Params "address" }}
+            <section>
+
+              <h3 class="text-uppercase"> {{ i18n "contactAddrTitle" }}</h3>
+
+                {{ .Site.Params.address | safeHTML }}
+
+            </section>
+
+            {{ end }}
+
+        </div>
+
+    </div>
+    <!-- /.row -->
+</div>
+
+{{ partial "map.html" . }}

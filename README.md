@@ -1,2 +1,2 @@
-# vs_site
-VS website
+# vs_website
+Vittseva Website

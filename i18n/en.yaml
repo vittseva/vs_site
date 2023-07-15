@@ -1,0 +1,8 @@
+- id: contactGoTo
+  translation: "Schedule Free Consultation"
+
+- id: serviceChoice
+  translation: "Choose applicable services (multiple allowed)"
+
+- id: contactPhone
+  translation: "Phone"

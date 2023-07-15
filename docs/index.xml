@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VittSeva</title>
+    <link>/</link>
+    <description>Recent content on VittSeva</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Categories Post</title>
+      <link>/blog/2021/08/01/categories-post/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>/blog/2021/08/01/categories-post/</guid>
+      <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:
+categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;] Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
+    </item>
+    
+    <item>
+      <title>Linked post</title>
+      <link>/blog/2015/10/02/linked-post/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>/blog/2015/10/02/linked-post/</guid>
+      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
+menu = &amp;quot;main&amp;quot; Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+    </item>
+    
+    <item>
+      <title>Go is for lovers</title>
+      <link>/blog/2015/09/17/go-is-for-lovers/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>/blog/2015/09/17/go-is-for-lovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
+    </item>
+    
+    <item>
+      <title>Hugo is for lovers</title>
+      <link>/blog/2015/08/03/hugo-is-for-lovers/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>/blog/2015/08/03/hugo-is-for-lovers/</guid>
+      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
+    </item>
+    
+    <item>
+      <title>Creating a new theme</title>
+      <link>/blog/2015/06/24/creating-a-new-theme/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>/blog/2015/06/24/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Vitt Seva (वित्त सेवा), A financial services firm to make finance and related services simple, personal &amp;amp; optimal for individuals and businesses. Vitt (वित्त) means &amp;ldquo;Finance&amp;rdquo; and Seva (सेवा) means &amp;ldquo;Service&amp;rdquo; in Hindi. We chose this simple name to reflect our commitment to make Financial decisions easy and optimum for our customers with our multi-brand - multi options services.
+Our experienced &amp;amp; versatile teams&amp;rsquo; are deeply committed to providing highly personalised and optimised solutions as per the needs and budgets of each individual, group, and business.</description>
+    </item>
+    
+    <item>
+      <title>Accounting and Tax</title>
+      <link>/service/accounting-tax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/service/accounting-tax/</guid>
+      <description>Streamlined Finances, Optimized Returns Accounting and tax filing services are critical for both individuals and businesses to achieve financial stability and compliance. We offer comprehensive solutions for both, ranging from bookkeeping and tax planning to the preparation and filing of taxes. For individuals, we provide personalized services to help manage their finances and minimize their tax liability.
+For businesses, we offer customized solutions to ensure accurate financial reporting and compliance with tax laws.</description>
+    </item>
+    
+    <item>
+      <title>Business Banking</title>
+      <link>/service/business-banking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/service/business-banking/</guid>
+      <description>Tailored Solutions for Business Growth A start-up, an One Person Company, or an established high-revenue company; banking needs are different at different stages of the business.
+We bring to you the right options as per your business needs for banking and invoicing, payment collection and payment settlements, payment instruments, and expense tracking for your employees.
+All these and much more through a completely online process to reduce your workload and manage very efficiently all your funds, finances, expenses, collections, taxes &amp;amp; tracking all of these.</description>
+    </item>
+    
+    <item>
+      <title>Claim Settlement</title>
+      <link>/service/claim-settlement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/service/claim-settlement/</guid>
+      <description>Efficient Solutions for Fair Compensation Bringing your money back
+Yes! We help policyholders, shareholders, or customers with financial products in resolving the grievance of all verticals i.e. Life, Health and General Insurance, shareholding, Mutual funds, and many more.
+A smooth and effortless claim redressal process is what we offer.
+Our endeavor is to reach out to every customer to provide an efficient resolution to get the funds they deserve.
+We bring customized service to nagging problems of Lost / Forgotten / Blocked investments in financial instruments such as Shares/ Mutual funds / Provident Funds / Insurance / Postal savings / Bank accounts etc.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>We are here to help you Are you curious about our offerings? Please use the form below to schedule a free consultation with us.
+Please choose all the applicable services and share details about your requirement to help us serve you best.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/faq/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+    </item>
+    
+    <item>
+      <title>Funding and Finance</title>
+      <link>/service/funding-finance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/service/funding-finance/</guid>
+      <description>Fueling Ambitions, Enabling Success Thinking of starting up or running a business, funding, and managing finances are crucial needs and can be a challenge at any point in time in the business.
+We offer very selective and carefully associated experts who can make and manage these requirements and make your business experiences better to focus on your core strengths.
+Our team will not only support fundraising; we may provide overall financial planning for your business.</description>
+    </item>
+    
+    <item>
+      <title>Insurance</title>
+      <link>/service/insurance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/service/insurance/</guid>
+      <description>Protection Made Personal The start of financial planning and a critical option to safeguard your hard-earned funds and peace of mind; in difficult times of life.
+A strength to face the majority of challenges in one&amp;rsquo;s life that needs detailed planning, careful selection of options, and support from a trusted advisor.
+With us, unbiased advice, multiple options of the majority of insurers of all kinds of insurance, and much more are just a call away.</description>
+    </item>
+    
+    <item>
+      <title>Investments</title>
+      <link>/service/investment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/service/investment/</guid>
+      <description>Building Wealth, Maximizing Potential The next best thing is an investment if you have protected yourself with insurance options. With a gamut of variety of options suitable for all ages and financial statuses, one always needs experts to advise to decide on the most suitable investment options.
+We offer the majority of moderate-risk options which are required for most of us and make them easy to understand for your needs.</description>
+    </item>
+    
+    <item>
+      <title>Loans</title>
+      <link>/service/loan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/service/loan/</guid>
+      <description>Unlocking Opportunities, Empowering Growth Right from your small personal needs of quick money to large sums of the amount which will bring your dreams to true; we provide our expertise &amp;amp; network of lenders to get you the loans that are hassle-free, most cost-effective, and through a single advisor to avoid tiring efforts to deal with multiple agents or lenders.
+With us, your perception of the loan process will change and your experience will be much better than traditional agent services.</description>
+    </item>
+    
+    <item>
+      <title>Migrate from Jekyll</title>
+      <link>/blog/1/01/01/migrate-from-jekyll/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/1/01/01/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>NRI Service</title>
+      <link>/service/nri-service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/service/nri-service/</guid>
+      <description>We offer comprehensive NRI services to help Non-Resident Indians (NRIs) manage their finances and investments in India. Our services include portfolio management, investment advisory, wealth management, and tax planning. We understand the unique financial needs of NRIs and offer customized solutions that suit their individual requirements. Our team of experts is well-versed in the regulatory framework for NRIs and provides professional advice to help our clients make informed investment decisions. With our expertise and reliable services, NRIs can rest assured that their finances are in safe hands, even while they are residing abroad.</description>
+    </item>
+    
+    <item>
+      <title>Service</title>
+      <link>/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/</guid>
+      <description>Accounting and Tax Filing Streamlined Finances, Optimized Returns Accounting and tax filing services are critical for both individuals and businesses to achieve financial stability and compliance. We offer comprehensive solutions for both, ranging from bookkeeping and tax planning to the preparation and filing of taxes. For individuals, we provide personalized services to help manage their finances and minimize their tax liability.
+For businesses, we offer customized solutions to ensure accurate financial reporting and compliance with tax laws.</description>
+    </item>
+    
+  </channel>
+</rss>
