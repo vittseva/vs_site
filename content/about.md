@@ -22,11 +22,37 @@ We look forward to being a part of your journey to financial sustainability and 
 
 ### Abhinav Jain
 
-> Advisor - Investments, Insurance & NRI Services
+> #### Advisor - Investments, Insurance & NRI Services
 > 
-> PGDBM (Finance & Marketing) & MBA (Marketing)
->
-> Experienced in financial advisory for Vitt Seva's Investments & Insurance options Abhinav has a stronghold on the majority of Life, Medical & General insurance products, Mutual funds, Pre IPOs & other moderate-risk investment products. He is your go-to person for all things Investment & Insurance. He enjoys interacting with and serving Start-Ups, NRIs & HNIs for their financial advisory needs. He also has rich experience of a decade in the Education, Training & Skill Development sector's various roles, which helps him in connecting and understanding the youth for their new-age financial requirements.
+> Abhinav is a seasoned financial advisor with expertise in Investments, Insurance, and NRI services. With a PGDBM in Finance & Marketing and an MBA in Marketing, he brings a strong foundation to his role. Abhinav's in-depth knowledge encompasses Life, Medical & General insurance products, Mutual funds, Pre IPOs, and other moderate-risk investment options. He serves as a reliable resource for all your Investment & Insurance needs.
+> 
+> Abhinav takes pleasure in assisting and guiding Start-Ups, NRIs, and HNIs, offering tailored financial advisory services to meet their diverse requirements. Additionally, his decade-long experience in the Education, Training & Skill Development sector equips him with a unique understanding of the youth and their evolving financial needs.
+> 
+> A passionate finance enthusiast, Abhinav is committed to empowering clients with sound financial advice and personalized solutions, making him the ideal choice for all your Investment & Insurance decisions.
+
+------
+
+<div id="teamvikas" class="anchor"></div>
+
+### Vikas Kumar
+
+> #### Advisor - Banking Services & Loans (Business & Individuals)
+> 
+> Vikas Kumar is an accomplished banking professional with 12+ years of experience, serving leading brands like HDFC & ICICI. With a BCA, MBA in Marketing, and pursuing LLB, he brings a well-rounded skill set to our team. 
+> 
+> Vikas excels in providing expert advice on Business Loans, Connected Banking, E-invoicing solutions, GST Returns, and more for businesses. For individuals, he ensures the best savings accounts, FDs, and loan options. With a calm and witty personality, Vikas is a trusted advisor for your banking and loan needs.
+
+------
+
+<div id="teamvikash" class="anchor"></div>
+
+### Vikash Kumar Gupta
+
+> #### Advisor - Accounting and Tax Planning
+> 
+> Vikash Kumar Gupta, a seasoned professional with 15+ years of experience in accounting and tax planning, holds a B.Com in Accounting, an MBA in Finance, and is pursuing an LLB. He brings a holistic approach to his advisory services, offering comprehensive solutions to clients. 
+> 
+> Vikash specializes in streamlining accounting processes, optimizing tax strategies, and providing valuable insights into business loans. With a calm and attentive demeanour, he is the perfect go-to person for your accounting, tax planning, and business loan requirements.
 
 ------
 
@@ -34,11 +60,13 @@ We look forward to being a part of your journey to financial sustainability and 
 
 ### Vijay Kumar Jain
 
-> Advisor - Senior Citizen Financial Services
+> #### Advisor - Senior Citizen Financial Services
 >
-> Retired Principal (Rajasthan Govt. Education Services) M. Ed., B. Ed., M. Sc. Botany, B. Sc. Biology
-He is a senior citizen, and his interest is to help senior citizens from all segments and strata of society.
-Being from a government-job background and from the education sector, where quality correspondence with people has been an integral part of his duties, he enjoys interacting with people and bringing suitable solutions to their requests. He prefers to advise on Banking Services, Fixed Return Plans, Pension Plans, Retirement Savings, and Will Writing Services.
+> Vijay Kumar Jain, a retired Principal from Rajasthan Govt. Education Services, is a dedicated Senior Citizen Financial Services advisor. With an impressive educational background, including M. Ed., B. Ed., M.Sc. Botany, and B.Sc. Biology, he brings a wealth of knowledge and experience to his role.
+> 
+> As a senior citizen himself, he passionately supports fellow seniors from diverse backgrounds. With a government job history and extensive education sector experience, his exceptional communication skills enable him to understand unique client needs.
+> 
+> Specializing in Banking Services, Fixed Return Plans, Pension Plans, Retirement Savings, and Will Writing Services, he takes joy in providing tailored financial solutions. His compassionate approach assures a secure and comfortable financial future for senior citizens, making him a trusted resource in Senior Citizen Financial Services.
 
 ------
 
@@ -46,10 +74,13 @@ Being from a government-job background and from the education sector, where qual
 
 ### Shweta Jain
 
-> Advisor - Women-Centred Financial Services, Bachelor of Business Administration
+> #### Advisor - Women-Centred Financial Services
 >
-> Shweta is keen on serving & supporting females of all ages and backgrounds for their financial protection and wealth creation needs. She enjoys connecting with them and brings the most suitable options for their female-specific requirements. It could be micro saving, assured return insurance options, or investments in low-risk options.
-Previously she has also had experience in intraday trading services for clients who were conservative to moderate-level investors. Using her comfort in handling matters of finance to support women gives her a sure sense of pride and accomplishment.
+> Shweta Jain, a dedicated advisor holding a Bachelor of Business Administration degree, specializing in Women-Centered Financial Services. Driven by a passion for serving females across all ages and backgrounds, she zeroes in on their financial protection and wealth creation requirements.
+>
+> Fueled by empathy and strong communication skills, Shweta thrives on building connections with her female clients. Her approach involves tailoring solutions that address their distinct needs. She offers a wide array of options tailored to women-specific financial goals, ranging from micro savings to assured return insurance plans and low-risk investments.
+> 
+> With prior experience in intraday trading services, particularly for conservative to moderate-level investors, Shweta's true pride emerges from utilizing her financial prowess to assist women in realizing their financial aspirations.
 
 ------
 
