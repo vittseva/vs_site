@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Starting on VittSeva</title>
-    <link>/categories/starting/</link>
-    <description>Recent content in Starting on VittSeva</description>
+    <title>Abhinav Jain on VittSeva</title>
+    <link>/authors/abhinav-jain/</link>
+    <description>Recent content in Abhinav Jain on VittSeva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 14 Jul 2024 13:50:46 +0200</lastBuildDate>
-    <atom:link href="/categories/starting/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/authors/abhinav-jain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SIP for Retirement: Secure Your Future with Systematic Investment Plans</title>
       <link>/blog/2024/07/14/creating-a-new-theme/</link>
