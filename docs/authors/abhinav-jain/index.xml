@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abhinav Jain on VittSeva</title>
-    <link>/authors/abhinav-jain/</link>
+    <link>//localhost:1313/authors/abhinav-jain/</link>
     <description>Recent content in Abhinav Jain on VittSeva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 14 Jul 2024 13:50:46 +0200</lastBuildDate>
-    <atom:link href="/authors/abhinav-jain/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/authors/abhinav-jain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SIP for Retirement: Secure Your Future with Systematic Investment Plans</title>
-      <link>/blog/2024/07/14/creating-a-new-theme/</link>
+      <link>//localhost:1313/blog/2024/07/14/creating-a-new-theme/</link>
       <pubDate>Sun, 14 Jul 2024 13:50:46 +0200</pubDate>
-      <guid>/blog/2024/07/14/creating-a-new-theme/</guid>
+      <guid>//localhost:1313/blog/2024/07/14/creating-a-new-theme/</guid>
       <description>Planning for retirement is a crucial aspect of financial stability and peace of mind. One of the most effective and disciplined methods to secure your future is through a Systematic Investment Plan (SIP). Here’s why SIP should be a cornerstone of your retirement planning.&#xA;Consistent and Disciplined Investment SIP allows you to invest a fixed amount regularly in mutual funds. This disciplined approach ensures that you save consistently without the stress of market timing.</description>
     </item>
   </channel>

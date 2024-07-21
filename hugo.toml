@@ -219,8 +219,8 @@ pluralizelisttitles = false
     disabled_logo = false
     logo_text = "VittSeva"
 
-    logo = "img/vs/vs_logo.jpg"
-    logo_small = "img/vs/vs_logo-small.jpg"
+    logo = "img/vs/logo-vittseva.svg"
+    logo_small = "img/vs/logo-vittseva.svg"
     contact_url = "/contact?source=footer"
     address = """<p class="text-uppercase"><strong>VittSeva Financial Advisory Services</strong>
         <br>Koramangala
