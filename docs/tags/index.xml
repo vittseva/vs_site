@@ -2,53 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on VittSeva</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on VittSeva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jul 2024 13:50:46 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Jul 2024 13:50:46 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Theme</title>
-      <link>//localhost:1313/tags/theme/</link>
+      <title>theme</title>
+      <link>/tags/theme/</link>
       <pubDate>Sun, 14 Jul 2024 13:50:46 +0200</pubDate>
-      <guid>//localhost:1313/tags/theme/</guid>
+      
+      <guid>/tags/theme/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Golang</title>
-      <link>//localhost:1313/tags/golang/</link>
+      <title>financial</title>
+      <link>/tags/financial/</link>
+      <pubDate>Thu, 03 Aug 2023 21:29:20 +0200</pubDate>
+      
+      <guid>/tags/financial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>insurance</title>
+      <link>/tags/insurance/</link>
+      <pubDate>Thu, 03 Aug 2023 21:29:20 +0200</pubDate>
+      
+      <guid>/tags/insurance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>planning</title>
+      <link>/tags/planning/</link>
+      <pubDate>Thu, 03 Aug 2023 21:29:20 +0200</pubDate>
+      
+      <guid>/tags/planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health</title>
+      <link>/tags/health/</link>
+      <pubDate>Tue, 01 Aug 2023 21:29:20 +0200</pubDate>
+      
+      <guid>/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>medical</title>
+      <link>/tags/medical/</link>
+      <pubDate>Tue, 01 Aug 2023 21:29:20 +0200</pubDate>
+      
+      <guid>/tags/medical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>/tags/golang/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      <guid>//localhost:1313/tags/golang/</guid>
+      
+      <guid>/tags/golang/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Hugo</title>
-      <link>//localhost:1313/tags/hugo/</link>
+      <title>hugo</title>
+      <link>/tags/hugo/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      <guid>//localhost:1313/tags/hugo/</guid>
+      
+      <guid>/tags/hugo/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Programming</title>
-      <link>//localhost:1313/tags/programming/</link>
+      <title>programming</title>
+      <link>/tags/programming/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      <guid>//localhost:1313/tags/programming/</guid>
+      
+      <guid>/tags/programming/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Go</title>
-      <link>//localhost:1313/tags/go/</link>
+      <title>go</title>
+      <link>/tags/go/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      <guid>//localhost:1313/tags/go/</guid>
+      
+      <guid>/tags/go/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Ipsum</title>
-      <link>//localhost:1313/tags/ipsum/</link>
+      <title>ipsum</title>
+      <link>/tags/ipsum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/ipsum/</guid>
+      
+      <guid>/tags/ipsum/</guid>
       <description></description>
     </item>
+    
   </channel>
 </rss>
