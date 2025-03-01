@@ -135,5 +135,21 @@ We offer comprehensive NRI services to help Non-Resident
 Indians (NRIs) manage their finances and investments in India. Our services include portfolio management, investment advisory, wealth management, and tax planning. We understand the unique financial needs of NRIs and offer customized solutions that suit their individual requirements. 
 Our team of experts is well-versed in the regulatory framework for NRIs and provides professional advice to help our clients make informed investment decisions. With our expertise and reliable services, NRIs can rest assured that their finances are in safe hands, even while they are residing abroad.
 
+<div id="vscl" class="anchor"></div>
+
+------
+
+## Commercial & Corporate Law Advisory
+
+#### Expert Legal Guidance for Businesses
+
+We offer a comprehensive range of corporate legal and advisory services to our clients.  
+
+These include legal support and services in **Corporate & Commercial Law, Labor and Employment, Real Estate, Family, Matrimonial, and Inheritance Law**.  
+
+With our team of **Lawyers, Company Secretaries, Chartered Accountants, and Business Consultants**, we extend our services to **business structuring/restructuring, mergers, and amalgamations,** as well as **liaisoning with regulators, government authorities, and institutions** such as the **Ministry of Corporate Affairs, NCLT, and NCLAT**.  
+
+Our expertise also covers **Corporate Secretarial services, regulatory compliances, due diligence, and FEMA advisory**, ensuring that businesses navigate the complexities of legal and regulatory frameworks with ease.
+
 ------
 

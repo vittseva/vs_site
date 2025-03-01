@@ -2,109 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on VittSeva</title>
-    <link>/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on VittSeva</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jul 2024 13:50:46 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Jul 2024 13:50:46 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>theme</title>
-      <link>/tags/theme/</link>
+      <title>Theme</title>
+      <link>//localhost:1313/tags/theme/</link>
       <pubDate>Sun, 14 Jul 2024 13:50:46 +0200</pubDate>
-      
-      <guid>/tags/theme/</guid>
+      <guid>//localhost:1313/tags/theme/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>financial</title>
-      <link>/tags/financial/</link>
+      <title>Financial</title>
+      <link>//localhost:1313/tags/financial/</link>
       <pubDate>Thu, 03 Aug 2023 21:29:20 +0200</pubDate>
-      
-      <guid>/tags/financial/</guid>
+      <guid>//localhost:1313/tags/financial/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>insurance</title>
-      <link>/tags/insurance/</link>
+      <title>Insurance</title>
+      <link>//localhost:1313/tags/insurance/</link>
       <pubDate>Thu, 03 Aug 2023 21:29:20 +0200</pubDate>
-      
-      <guid>/tags/insurance/</guid>
+      <guid>//localhost:1313/tags/insurance/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>planning</title>
-      <link>/tags/planning/</link>
+      <title>Planning</title>
+      <link>//localhost:1313/tags/planning/</link>
       <pubDate>Thu, 03 Aug 2023 21:29:20 +0200</pubDate>
-      
-      <guid>/tags/planning/</guid>
+      <guid>//localhost:1313/tags/planning/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>health</title>
-      <link>/tags/health/</link>
+      <title>Health</title>
+      <link>//localhost:1313/tags/health/</link>
       <pubDate>Tue, 01 Aug 2023 21:29:20 +0200</pubDate>
-      
-      <guid>/tags/health/</guid>
+      <guid>//localhost:1313/tags/health/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>medical</title>
-      <link>/tags/medical/</link>
+      <title>Medical</title>
+      <link>//localhost:1313/tags/medical/</link>
       <pubDate>Tue, 01 Aug 2023 21:29:20 +0200</pubDate>
-      
-      <guid>/tags/medical/</guid>
+      <guid>//localhost:1313/tags/medical/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>golang</title>
-      <link>/tags/golang/</link>
+      <title>Golang</title>
+      <link>//localhost:1313/tags/golang/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>/tags/golang/</guid>
+      <guid>//localhost:1313/tags/golang/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>hugo</title>
-      <link>/tags/hugo/</link>
+      <title>Hugo</title>
+      <link>//localhost:1313/tags/hugo/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>/tags/hugo/</guid>
+      <guid>//localhost:1313/tags/hugo/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>programming</title>
-      <link>/tags/programming/</link>
+      <title>Programming</title>
+      <link>//localhost:1313/tags/programming/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>/tags/programming/</guid>
+      <guid>//localhost:1313/tags/programming/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>go</title>
-      <link>/tags/go/</link>
+      <title>Go</title>
+      <link>//localhost:1313/tags/go/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      
-      <guid>/tags/go/</guid>
+      <guid>//localhost:1313/tags/go/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ipsum</title>
-      <link>/tags/ipsum/</link>
+      <title>Ipsum</title>
+      <link>//localhost:1313/tags/ipsum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ipsum/</guid>
+      <guid>//localhost:1313/tags/ipsum/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

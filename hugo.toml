@@ -11,7 +11,7 @@ publishDir = "docs"
 	defaultContentLanguage = "en"
 	# Enable comments by entering your Disqus shortname
 
-# disqusShortname = "devcows"
+# DisqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "G-QX89H67J8K"
 
@@ -86,6 +86,12 @@ pluralizelisttitles = false
         name       = "NRI Services"
         url        = "/services#vsnri" # AJ
         weight     = 8
+        parent     = "menu.services"
+
+    [[menu.main]]
+        name       = "Corporate Law Advsiory"
+        url        = "/services#vscl" # AJ
+        weight     = 9
         parent     = "menu.services"
 
 
@@ -271,7 +277,7 @@ pluralizelisttitles = false
 
 [params.features]
     enable = true
-    cols = 4 # Default: 3, Available values 2,3,4,6
+    cols = 3 # Default: 3, Available values 2,3,4,6
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more information take a look at the README.

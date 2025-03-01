@@ -2,37 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Insurance on VittSeva</title>
-    <link>/categories/insurance/</link>
+    <link>//localhost:1313/categories/insurance/</link>
     <description>Recent content in Insurance on VittSeva</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Aug 2023 21:29:20 +0200</lastBuildDate><atom:link href="/categories/insurance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Aug 2023 21:29:20 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/insurance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test blog</title>
-      <link>/blog/2023/08/03/test-blog/</link>
+      <link>//localhost:1313/blog/2023/08/03/test-blog/</link>
       <pubDate>Thu, 03 Aug 2023 21:29:20 +0200</pubDate>
-      
-      <guid>/blog/2023/08/03/test-blog/</guid>
-      <description>My test blog </description>
+      <guid>//localhost:1313/blog/2023/08/03/test-blog/</guid>
+      <description>&lt;h3 id=&#34;my-test-blog&#34;&gt;My test blog&lt;/h3&gt;</description>
     </item>
-    
     <item>
       <title>Importance of insurance</title>
-      <link>/blog/2023/08/01/importance-of-insurance/</link>
+      <link>//localhost:1313/blog/2023/08/01/importance-of-insurance/</link>
       <pubDate>Tue, 01 Aug 2023 21:29:20 +0200</pubDate>
-      
-      <guid>/blog/2023/08/01/importance-of-insurance/</guid>
-      <description>The Importance of Insurance: A Must-Have for Every Individual Insurance is a crucial aspect of financial planning that provides protection and peace of mind to individuals and their families. In India, where uncertainty is a part of life, having comprehensive insurance coverage is essential. This blog post highlights why everyone should have insurance and provides a checklist of key information required to opt for life and medical insurances in India. Why Everyone Should Have Insurance:</description>
+      <guid>//localhost:1313/blog/2023/08/01/importance-of-insurance/</guid>
+      <description>&lt;h2 id=&#34;the-importance-of-insurance-a-must-have-for-every-individual&#34;&gt;The Importance of Insurance: A Must-Have for Every Individual&lt;/h2&gt;&#xA;&lt;p&gt;Insurance is a crucial aspect of financial planning that provides protection and peace of mind to individuals and their families. In India, where uncertainty is a part of life, having comprehensive insurance coverage is essential. This blog post highlights why everyone should have insurance and provides a checklist of key information required to opt for life and medical insurances in India.&#xA;Why Everyone Should Have Insurance:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Why Medical Insurance</title>
-      <link>/blog/2023/08/01/test2-blog/</link>
+      <link>//localhost:1313/blog/2023/08/01/test2-blog/</link>
       <pubDate>Tue, 01 Aug 2023 21:29:20 +0200</pubDate>
-      
-      <guid>/blog/2023/08/01/test2-blog/</guid>
-      <description>Why Medical Insurance</description>
+      <guid>//localhost:1313/blog/2023/08/01/test2-blog/</guid>
+      <description>&lt;p&gt;Why Medical Insurance&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,41 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>theme on VittSeva</title>
-    <link>/tags/theme/</link>
-    <description>Recent content in theme on VittSeva</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Theme on VittSeva</title>
+    <link>//localhost:1313/tags/theme/</link>
+    <description>Recent content in Theme on VittSeva</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jul 2024 13:50:46 +0200</lastBuildDate><atom:link href="/tags/theme/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Jul 2024 13:50:46 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/theme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SIP for Retirement: Secure Your Future with Systematic Investment Plans</title>
-      <link>/blog/2024/07/14/creating-a-new-theme/</link>
+      <link>//localhost:1313/blog/2024/07/14/creating-a-new-theme/</link>
       <pubDate>Sun, 14 Jul 2024 13:50:46 +0200</pubDate>
-      
-      <guid>/blog/2024/07/14/creating-a-new-theme/</guid>
-      <description>Planning for retirement is a crucial aspect of financial stability and peace of mind. One of the most effective and disciplined methods to secure your future is through a Systematic Investment Plan (SIP). Here’s why SIP should be a cornerstone of your retirement planning.
-Consistent and Disciplined Investment SIP allows you to invest a fixed amount regularly in mutual funds. This disciplined approach ensures that you save consistently without the stress of market timing.</description>
+      <guid>//localhost:1313/blog/2024/07/14/creating-a-new-theme/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/banners/blog1.jpg&#34; alt=&#34;SIP image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Planning for retirement is a crucial aspect of financial stability and peace of mind. One of the most effective and disciplined methods to secure your future is through a Systematic Investment Plan (SIP). Here’s why SIP should be a cornerstone of your retirement planning.&lt;/p&gt;&#xA;&lt;h3 id=&#34;consistent-and-disciplined-investment&#34;&gt;Consistent and Disciplined Investment&lt;/h3&gt;&#xA;&lt;p&gt;SIP allows you to invest a fixed amount regularly in mutual funds. This disciplined approach ensures that you save consistently without the stress of market timing. By committing to a regular investment schedule, you build a substantial corpus over time, making it easier to achieve your retirement goals.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Linked post</title>
-      <link>/blog/2015/10/02/linked-post/</link>
+      <link>//localhost:1313/blog/2015/10/02/linked-post/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>/blog/2015/10/02/linked-post/</guid>
-      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot; Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+      <guid>//localhost:1313/blog/2015/10/02/linked-post/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;menu = &amp;quot;main&amp;quot;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim. Ut ante turpis, tristique vitae sagittis quis, sagittis nec diam. Fusce pulvinar cursus porta. Vivamus maximus leo dolor, ut pellentesque lorem fringilla nec. Mauris faucibus turpis posuere sapien euismod, a ullamcorper mi maximus.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Categories Post</title>
-      <link>/blog/1/01/01/categories-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/1/01/01/categories-post/</guid>
-      <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:
-categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;] Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
-    </item>
-    
   </channel>
 </rss>

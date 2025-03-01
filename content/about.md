@@ -32,6 +32,36 @@ We look forward to being a part of your journey to financial sustainability and 
 
 ------
 
+<div id="teamajl" class="anchor"></div>
+
+------
+
+### Ashish Jain  
+
+> #### Lawyer & Consultant - Corporate Laws & Business Services  
+>
+> Ashish is a **Lawyer and Company Secretary** with 25+ years of experience in **Corporate Litigations, Business Restructuring, Mergers, Amalgamations, Demergers, and Corporate & Allied Laws**.  
+>  
+> Holding qualifications in **B. Com., FCS, LLB & MBA**, Ashish brings extensive corporate expertise across **Telecom, Manufacturing, Real Estate, Infrastructure, and Hospitality industries**.  
+>  
+> Currently practicing as an **Advocate in the Hon’ble Delhi High Court**, he specializes in **Civil Law, Corporate Law, and FEMA**. His key focus is **succession planning** and spreading awareness about **succession laws**, helping individuals and businesses secure their financial legacy.  
+
+------
+
+<div id="teamvv" class="anchor"></div>
+
+### Vikram Verma  
+
+> #### Consultant – Succession Planning  
+>
+> Vikram is an **MBA in Marketing & International Business** and an expert in **succession planning**.  
+>  
+> With **17+ years of experience** in service organizations specializing in **digitization services for government and semi-government entities across India**, he has played a crucial role in **managing critical data and records**.  
+>  
+> Vikram’s expertise lies in **bridging the gap between technology and governance**, ensuring efficient processes and strategic growth. He excels in **enhancing service delivery, driving innovation, and optimizing operational efficiency** for public and private sector organizations.  
+
+------
+
 <div id="teamvikas" class="anchor"></div>
 
 ### Vikas Kumar

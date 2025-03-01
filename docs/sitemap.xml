@@ -2,130 +2,128 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/authors/abhinav-jain/</loc>
+    <loc>//localhost:1313/authors/abhinav-jain/</loc>
     <lastmod>2024-07-14T13:50:46+02:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
+    <loc>//localhost:1313/authors/</loc>
     <lastmod>2024-07-14T13:50:46+02:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
+    <loc>//localhost:1313/blog/</loc>
     <lastmod>2024-07-14T13:50:46+02:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
     <lastmod>2024-07-14T13:50:46+02:00</lastmod>
   </url><url>
-    <loc>/blog/2024/07/14/creating-a-new-theme/</loc>
+    <loc>//localhost:1313/blog/2024/07/14/creating-a-new-theme/</loc>
     <lastmod>2024-07-14T13:50:46+02:00</lastmod>
   </url><url>
-    <loc>/categories/starting/</loc>
+    <loc>//localhost:1313/categories/starting/</loc>
     <lastmod>2024-07-14T13:50:46+02:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2024-07-14T13:50:46+02:00</lastmod>
   </url><url>
-    <loc>/tags/theme/</loc>
+    <loc>//localhost:1313/tags/theme/</loc>
     <lastmod>2024-07-14T13:50:46+02:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-07-14T13:50:46+02:00</lastmod>
   </url><url>
-    <loc>/tags/financial/</loc>
+    <loc>//localhost:1313/tags/financial/</loc>
     <lastmod>2023-08-03T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>/tags/insurance/</loc>
+    <loc>//localhost:1313/categories/insurance/</loc>
     <lastmod>2023-08-03T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>/categories/insurance/</loc>
+    <loc>//localhost:1313/tags/insurance/</loc>
     <lastmod>2023-08-03T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>/tags/planning/</loc>
+    <loc>//localhost:1313/categories/planning/</loc>
     <lastmod>2023-08-03T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>/categories/planning/</loc>
+    <loc>//localhost:1313/tags/planning/</loc>
     <lastmod>2023-08-03T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>/blog/2023/08/03/test-blog/</loc>
+    <loc>//localhost:1313/blog/2023/08/03/test-blog/</loc>
     <lastmod>2023-08-03T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>/tags/health/</loc>
+    <loc>//localhost:1313/tags/health/</loc>
     <lastmod>2023-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>/blog/2023/08/01/importance-of-insurance/</loc>
+    <loc>//localhost:1313/blog/2023/08/01/importance-of-insurance/</loc>
     <lastmod>2023-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>/tags/medical/</loc>
+    <loc>//localhost:1313/tags/medical/</loc>
     <lastmod>2023-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>/blog/2023/08/01/test2-blog/</loc>
+    <loc>//localhost:1313/blog/2023/08/01/test2-blog/</loc>
     <lastmod>2023-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>/tags/golang/</loc>
+    <loc>//localhost:1313/tags/golang/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
-    <loc>/tags/hugo/</loc>
+    <loc>//localhost:1313/tags/hugo/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
-    <loc>/authors/jane-doe/</loc>
+    <loc>//localhost:1313/authors/jane-doe/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
-    <loc>/authors/john-doe/</loc>
+    <loc>//localhost:1313/authors/john-doe/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
-    <loc>/blog/2015/10/02/linked-post/</loc>
+    <loc>//localhost:1313/blog/2015/10/02/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
-    <loc>/tags/programming/</loc>
+    <loc>//localhost:1313/categories/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
-    <loc>/categories/programming/</loc>
+    <loc>//localhost:1313/tags/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
-    <loc>/tags/go/</loc>
+    <loc>//localhost:1313/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url><url>
-    <loc>/blog/2015/09/17/go-is-for-lovers/</loc>
+    <loc>//localhost:1313/blog/2015/09/17/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url><url>
-    <loc>/blog/2015/08/03/hugo-is-for-lovers/</loc>
+    <loc>//localhost:1313/blog/2015/08/03/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url><url>
-    <loc>/categories/pseudo/</loc>
+    <loc>//localhost:1313/categories/pseudo/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>//localhost:1313/about/</loc>
   </url><url>
-    <loc>/service/accounting-tax/</loc>
+    <loc>//localhost:1313/service/accounting-tax/</loc>
   </url><url>
-    <loc>/service/business-banking/</loc>
+    <loc>//localhost:1313/service/business-banking/</loc>
   </url><url>
-    <loc>/blog/1/01/01/categories-post/</loc>
+    <loc>//localhost:1313/service/claim-settlement/</loc>
   </url><url>
-    <loc>/service/claim-settlement/</loc>
+    <loc>//localhost:1313/contact/</loc>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>//localhost:1313/faq/</loc>
   </url><url>
-    <loc>/faq/</loc>
+    <loc>//localhost:1313/service/funding-finance/</loc>
   </url><url>
-    <loc>/service/funding-finance/</loc>
+    <loc>//localhost:1313/service/insurance/</loc>
   </url><url>
-    <loc>/service/insurance/</loc>
+    <loc>//localhost:1313/service/investment/</loc>
   </url><url>
-    <loc>/service/investment/</loc>
+    <loc>//localhost:1313/tags/ipsum/</loc>
   </url><url>
-    <loc>/tags/ipsum/</loc>
+    <loc>//localhost:1313/service/loan/</loc>
   </url><url>
-    <loc>/service/loan/</loc>
+    <loc>//localhost:1313/categories/lorem/</loc>
   </url><url>
-    <loc>/categories/lorem/</loc>
+    <loc>//localhost:1313/blog/1/01/01/migrate-from-jekyll/</loc>
   </url><url>
-    <loc>/blog/1/01/01/migrate-from-jekyll/</loc>
+    <loc>//localhost:1313/service/nri-service/</loc>
   </url><url>
-    <loc>/service/nri-service/</loc>
+    <loc>//localhost:1313/services/</loc>
   </url><url>
-    <loc>/services/</loc>
+    <loc>//localhost:1313/service/</loc>
   </url><url>
-    <loc>/service/</loc>
-  </url><url>
-    <loc>/work-with-us/</loc>
+    <loc>//localhost:1313/work-with-us/</loc>
   </url>
 </urlset>

@@ -2,97 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on VittSeva</title>
-    <link>/blog/</link>
+    <link>//localhost:1313/blog/</link>
     <description>Recent content in Blogs on VittSeva</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jul 2024 13:50:46 +0200</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Jul 2024 13:50:46 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SIP for Retirement: Secure Your Future with Systematic Investment Plans</title>
-      <link>/blog/2024/07/14/creating-a-new-theme/</link>
+      <link>//localhost:1313/blog/2024/07/14/creating-a-new-theme/</link>
       <pubDate>Sun, 14 Jul 2024 13:50:46 +0200</pubDate>
-      
-      <guid>/blog/2024/07/14/creating-a-new-theme/</guid>
-      <description>Planning for retirement is a crucial aspect of financial stability and peace of mind. One of the most effective and disciplined methods to secure your future is through a Systematic Investment Plan (SIP). Here’s why SIP should be a cornerstone of your retirement planning.
-Consistent and Disciplined Investment SIP allows you to invest a fixed amount regularly in mutual funds. This disciplined approach ensures that you save consistently without the stress of market timing.</description>
+      <guid>//localhost:1313/blog/2024/07/14/creating-a-new-theme/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/banners/blog1.jpg&#34; alt=&#34;SIP image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Planning for retirement is a crucial aspect of financial stability and peace of mind. One of the most effective and disciplined methods to secure your future is through a Systematic Investment Plan (SIP). Here’s why SIP should be a cornerstone of your retirement planning.&lt;/p&gt;&#xA;&lt;h3 id=&#34;consistent-and-disciplined-investment&#34;&gt;Consistent and Disciplined Investment&lt;/h3&gt;&#xA;&lt;p&gt;SIP allows you to invest a fixed amount regularly in mutual funds. This disciplined approach ensures that you save consistently without the stress of market timing. By committing to a regular investment schedule, you build a substantial corpus over time, making it easier to achieve your retirement goals.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Test blog</title>
-      <link>/blog/2023/08/03/test-blog/</link>
+      <link>//localhost:1313/blog/2023/08/03/test-blog/</link>
       <pubDate>Thu, 03 Aug 2023 21:29:20 +0200</pubDate>
-      
-      <guid>/blog/2023/08/03/test-blog/</guid>
-      <description>My test blog </description>
+      <guid>//localhost:1313/blog/2023/08/03/test-blog/</guid>
+      <description>&lt;h3 id=&#34;my-test-blog&#34;&gt;My test blog&lt;/h3&gt;</description>
     </item>
-    
     <item>
       <title>Importance of insurance</title>
-      <link>/blog/2023/08/01/importance-of-insurance/</link>
+      <link>//localhost:1313/blog/2023/08/01/importance-of-insurance/</link>
       <pubDate>Tue, 01 Aug 2023 21:29:20 +0200</pubDate>
-      
-      <guid>/blog/2023/08/01/importance-of-insurance/</guid>
-      <description>The Importance of Insurance: A Must-Have for Every Individual Insurance is a crucial aspect of financial planning that provides protection and peace of mind to individuals and their families. In India, where uncertainty is a part of life, having comprehensive insurance coverage is essential. This blog post highlights why everyone should have insurance and provides a checklist of key information required to opt for life and medical insurances in India. Why Everyone Should Have Insurance:</description>
+      <guid>//localhost:1313/blog/2023/08/01/importance-of-insurance/</guid>
+      <description>&lt;h2 id=&#34;the-importance-of-insurance-a-must-have-for-every-individual&#34;&gt;The Importance of Insurance: A Must-Have for Every Individual&lt;/h2&gt;&#xA;&lt;p&gt;Insurance is a crucial aspect of financial planning that provides protection and peace of mind to individuals and their families. In India, where uncertainty is a part of life, having comprehensive insurance coverage is essential. This blog post highlights why everyone should have insurance and provides a checklist of key information required to opt for life and medical insurances in India.&#xA;Why Everyone Should Have Insurance:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Why Medical Insurance</title>
-      <link>/blog/2023/08/01/test2-blog/</link>
+      <link>//localhost:1313/blog/2023/08/01/test2-blog/</link>
       <pubDate>Tue, 01 Aug 2023 21:29:20 +0200</pubDate>
-      
-      <guid>/blog/2023/08/01/test2-blog/</guid>
-      <description>Why Medical Insurance</description>
+      <guid>//localhost:1313/blog/2023/08/01/test2-blog/</guid>
+      <description>&lt;p&gt;Why Medical Insurance&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Linked post</title>
-      <link>/blog/2015/10/02/linked-post/</link>
+      <link>//localhost:1313/blog/2015/10/02/linked-post/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>/blog/2015/10/02/linked-post/</guid>
-      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot; Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+      <guid>//localhost:1313/blog/2015/10/02/linked-post/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;menu = &amp;quot;main&amp;quot;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim. Ut ante turpis, tristique vitae sagittis quis, sagittis nec diam. Fusce pulvinar cursus porta. Vivamus maximus leo dolor, ut pellentesque lorem fringilla nec. Mauris faucibus turpis posuere sapien euismod, a ullamcorper mi maximus.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Go is for lovers</title>
-      <link>/blog/2015/09/17/go-is-for-lovers/</link>
+      <link>//localhost:1313/blog/2015/09/17/go-is-for-lovers/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      
-      <guid>/blog/2015/09/17/go-is-for-lovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
+      <guid>//localhost:1313/blog/2015/09/17/go-is-for-lovers/</guid>
+      <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for&#xA;its template engine. It is an extremely lightweight engine that provides a very&#xA;small amount of logic. In our experience that it is just the right amount of&#xA;logic to be able to create a good static website. If you have used other&#xA;template systems from different languages or frameworks you will find a lot of&#xA;similarities in go templates.&lt;/p&gt;&#xA;&lt;p&gt;This document is a brief primer on using go templates. The &lt;a href=&#34;http://golang.org/pkg/html/template/&#34;&gt;go docs&lt;/a&gt;&#xA;provide more details.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Hugo is for lovers</title>
-      <link>/blog/2015/08/03/hugo-is-for-lovers/</link>
+      <link>//localhost:1313/blog/2015/08/03/hugo-is-for-lovers/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      
-      <guid>/blog/2015/08/03/hugo-is-for-lovers/</guid>
-      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
+      <guid>//localhost:1313/blog/2015/08/03/hugo-is-for-lovers/</guid>
+      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;//localhost:1313/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
     </item>
-    
-    <item>
-      <title>Categories Post</title>
-      <link>/blog/1/01/01/categories-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/1/01/01/categories-post/</guid>
-      <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:
-categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;] Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
-    </item>
-    
     <item>
       <title>Migrate from Jekyll</title>
-      <link>/blog/1/01/01/migrate-from-jekyll/</link>
+      <link>//localhost:1313/blog/1/01/01/migrate-from-jekyll/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/1/01/01/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <guid>//localhost:1313/blog/1/01/01/migrate-from-jekyll/</guid>
+      <description>&lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.&#xA;With Jekyll, something that looked like&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/&#xA;    ▾ images/&#xA;        logo.png&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;should become&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/&#xA;    ▾ static/&#xA;        ▾ images/&#xA;            logo.png&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as &lt;code&gt;CNAME&lt;/code&gt;) to be moved to &lt;code&gt;static&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
