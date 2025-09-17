@@ -2,95 +2,125 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/authors/abhinav-jain/</loc>
-    <lastmod>2024-07-14T13:50:46+02:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/authors/</loc>
-    <lastmod>2024-07-14T13:50:46+02:00</lastmod>
+    <lastmod>2025-09-16T02:30:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/blog/</loc>
-    <lastmod>2024-07-14T13:50:46+02:00</lastmod>
+    <lastmod>2025-09-16T02:30:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
-    <lastmod>2024-07-14T13:50:46+02:00</lastmod>
+    <lastmod>2025-09-16T02:30:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/2024/07/14/creating-a-new-theme/</loc>
-    <lastmod>2024-07-14T13:50:46+02:00</lastmod>
+    <loc>//localhost:1313/authors/editorial-team/</loc>
+    <lastmod>2025-09-16T02:30:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/starting/</loc>
-    <lastmod>2024-07-14T13:50:46+02:00</lastmod>
+    <loc>//localhost:1313/tags/gold/</loc>
+    <lastmod>2025-09-16T02:30:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/investing/</loc>
+    <lastmod>2025-09-16T02:30:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/2025/09/16/2025-09-16-market-insights-navigating-the-evolving-landscape-of-mutual-/</loc>
+    <lastmod>2025-09-16T02:30:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/markets/</loc>
+    <lastmod>2025-09-16T02:30:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/markets/</loc>
+    <lastmod>2025-09-16T02:30:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/mutual-funds/</loc>
+    <lastmod>2025-09-16T02:30:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/personal-finance/</loc>
+    <lastmod>2025-09-16T02:30:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/personal-finance/</loc>
+    <lastmod>2025-09-16T02:30:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/policy/</loc>
+    <lastmod>2025-09-16T02:30:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
-    <lastmod>2024-07-14T13:50:46+02:00</lastmod>
+    <lastmod>2025-09-16T02:30:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/theme/</loc>
-    <lastmod>2024-07-14T13:50:46+02:00</lastmod>
+    <loc>//localhost:1313/blog/2025/09/16/2025-09-16-understanding-gold-etfs-and-mutual-funds-where-your-money-re/</loc>
+    <lastmod>2025-09-16T02:30:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2024-07-14T13:50:46+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/financial/</loc>
-    <lastmod>2023-08-03T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/insurance/</loc>
-    <lastmod>2023-08-03T21:29:20+02:00</lastmod>
+    <lastmod>2025-09-16T02:30:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/insurance/</loc>
-    <lastmod>2023-08-03T21:29:20+02:00</lastmod>
+    <lastmod>2025-09-08T06:05:28+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/planning/</loc>
-    <lastmod>2023-08-03T21:29:20+02:00</lastmod>
+    <loc>//localhost:1313/blog/2025/09/08/2025-09-08-market-dynamics-post-gst-reforms-what-investors-should-know/</loc>
+    <lastmod>2025-09-08T06:05:28+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/planning/</loc>
-    <lastmod>2023-08-03T21:29:20+02:00</lastmod>
+    <loc>//localhost:1313/blog/2025/09/08/2025-09-08-navigating-the-new-gst-landscape-what-it-means-for-your-wall/</loc>
+    <lastmod>2025-09-08T06:05:28+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/2023/08/03/test-blog/</loc>
-    <lastmod>2023-08-03T21:29:20+02:00</lastmod>
+    <loc>//localhost:1313/tags/taxes/</loc>
+    <lastmod>2025-09-08T06:05:28+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/health/</loc>
+    <loc>//localhost:1313/tags/fintech/</loc>
+    <lastmod>2025-08-30T06:00:00+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/2025/08/30/2025-08-30-market-insights-the-rise-of-income-plus-arbitrage-funds/</loc>
+    <lastmod>2025-08-30T06:00:00+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/2025/08/30/2025-08-30-navigating-retirement-is-3-5-the-new-safe-withdrawal-rate/</loc>
+    <lastmod>2025-08-30T06:00:00+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/retirement/</loc>
+    <lastmod>2025-08-30T06:00:00+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/budgeting/</loc>
+    <lastmod>2025-08-14T11:30:00+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/financial-freedom/</loc>
+    <lastmod>2025-08-14T11:30:00+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/2025/08/14/2025-08-14-finding-balance-in-the-pursuit-of-financial-freedom/</loc>
+    <lastmod>2025-08-14T11:30:00+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/investment/</loc>
+    <lastmod>2025-08-14T11:30:00+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/2025/08/14/2025-08-14-navigating-the-new-landscape-of-investment-vehicles/</loc>
+    <lastmod>2025-08-14T11:30:00+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/equities/</loc>
+    <lastmod>2025-07-29T02:30:00+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/2025/07/29/2025-07-29-revisiting-stock-classifications-the-case-for-expanding-larg/</loc>
+    <lastmod>2025-07-29T02:30:00+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/2025/07/29/2025-07-29-smart-strategies-for-your-retirement-corpus-making-rs-50-lak/</loc>
+    <lastmod>2025-07-29T02:30:00+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/2025/07/14/2025-07-14-market-insights-the-rise-of-ai-in-finance-and-investment-str/</loc>
+    <lastmod>2025-07-14T10:00:00+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/2025/07/14/2025-07-14-navigating-the-trap-of-illiquid-wealth-what-you-need-to-know/</loc>
+    <lastmod>2025-07-14T10:00:00+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/authors/abhinav-jain/</loc>
+    <lastmod>2023-08-01T21:29:20+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/financial/</loc>
     <lastmod>2023-08-01T21:29:20+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/blog/2023/08/01/importance-of-insurance/</loc>
     <lastmod>2023-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/medical/</loc>
+    <loc>//localhost:1313/categories/insurance/</loc>
     <lastmod>2023-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/2023/08/01/test2-blog/</loc>
+    <loc>//localhost:1313/categories/planning/</loc>
     <lastmod>2023-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/golang/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/hugo/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/authors/jane-doe/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/authors/john-doe/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blog/2015/10/02/linked-post/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/go/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blog/2015/09/17/go-is-for-lovers/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blog/2015/08/03/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/pseudo/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <loc>//localhost:1313/tags/planning/</loc>
+    <lastmod>2023-08-01T21:29:20+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/about/</loc>
   </url><url>
@@ -110,13 +140,7 @@
   </url><url>
     <loc>//localhost:1313/service/investment/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/ipsum/</loc>
-  </url><url>
     <loc>//localhost:1313/service/loan/</loc>
-  </url><url>
-    <loc>//localhost:1313/categories/lorem/</loc>
-  </url><url>
-    <loc>//localhost:1313/blog/1/01/01/migrate-from-jekyll/</loc>
   </url><url>
     <loc>//localhost:1313/service/nri-service/</loc>
   </url><url>

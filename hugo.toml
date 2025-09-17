@@ -105,13 +105,13 @@ pluralizelisttitles = false
     name       = "About Us"
     identifier = "menu.about"
     url        = "/about/"
-    weight     = 4
+    weight     = 3
 
-#[[menu.main]]
-#    name       = "Blog"
-#    identifier = "menu.blog"
-#    url        = "/blog/"
-#    weight     = 5
+[[menu.main]]
+    name       = "Blog"
+    identifier = "menu.blog"
+    url        = "/blog/"
+    weight     = 4
 
 #[[menu.main]]
 #    name       = "FAQ"
@@ -123,7 +123,7 @@ pluralizelisttitles = false
     identifier = "contact"
     name       = "Contact"
     url        = "/contact/"
-    weight     = 7
+    weight     = 5
 
 
 # Top bar social links menu

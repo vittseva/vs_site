@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Investment-Vehicles on VittSeva</title>
+    <link>//localhost:1313/tags/investment-vehicles/</link>
+    <description>Recent content in Investment-Vehicles on VittSeva</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Aug 2025 07:43:19 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/investment-vehicles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigating New Investment Vehicles and Market Trends</title>
+      <link>//localhost:1313/blog/2025/08/05/2025-09-15-navigating-new-investment-vehicles-and-market-trends/</link>
+      <pubDate>Tue, 05 Aug 2025 07:43:19 +0530</pubDate>
+      <guid>//localhost:1313/blog/2025/08/05/2025-09-15-navigating-new-investment-vehicles-and-market-trends/</guid>
+      <description>An overview of emerging investment options and market dynamics affecting investors.</description>
+    </item>
+  </channel>
+</rss>

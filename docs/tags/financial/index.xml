@@ -6,15 +6,8 @@
     <description>Recent content in Financial on VittSeva</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Aug 2023 21:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2023 21:29:20 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/tags/financial/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test blog</title>
-      <link>//localhost:1313/blog/2023/08/03/test-blog/</link>
-      <pubDate>Thu, 03 Aug 2023 21:29:20 +0200</pubDate>
-      <guid>//localhost:1313/blog/2023/08/03/test-blog/</guid>
-      <description>&lt;h3 id=&#34;my-test-blog&#34;&gt;My test blog&lt;/h3&gt;</description>
-    </item>
     <item>
       <title>Importance of insurance</title>
       <link>//localhost:1313/blog/2023/08/01/importance-of-insurance/</link>

@@ -6,83 +6,118 @@
     <description>Recent content in Tags on VittSeva</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jul 2024 13:50:46 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 02:30:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Theme</title>
-      <link>//localhost:1313/tags/theme/</link>
-      <pubDate>Sun, 14 Jul 2024 13:50:46 +0200</pubDate>
-      <guid>//localhost:1313/tags/theme/</guid>
+      <title>Gold</title>
+      <link>//localhost:1313/tags/gold/</link>
+      <pubDate>Tue, 16 Sep 2025 02:30:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/gold/</guid>
       <description></description>
     </item>
     <item>
-      <title>Financial</title>
-      <link>//localhost:1313/tags/financial/</link>
-      <pubDate>Thu, 03 Aug 2023 21:29:20 +0200</pubDate>
-      <guid>//localhost:1313/tags/financial/</guid>
+      <title>Investing</title>
+      <link>//localhost:1313/tags/investing/</link>
+      <pubDate>Tue, 16 Sep 2025 02:30:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/investing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markets</title>
+      <link>//localhost:1313/tags/markets/</link>
+      <pubDate>Tue, 16 Sep 2025 02:30:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/markets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mutual-Funds</title>
+      <link>//localhost:1313/tags/mutual-funds/</link>
+      <pubDate>Tue, 16 Sep 2025 02:30:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/mutual-funds/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal-Finance</title>
+      <link>//localhost:1313/tags/personal-finance/</link>
+      <pubDate>Tue, 16 Sep 2025 02:30:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/personal-finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Policy</title>
+      <link>//localhost:1313/tags/policy/</link>
+      <pubDate>Tue, 16 Sep 2025 02:30:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/policy/</guid>
       <description></description>
     </item>
     <item>
       <title>Insurance</title>
       <link>//localhost:1313/tags/insurance/</link>
-      <pubDate>Thu, 03 Aug 2023 21:29:20 +0200</pubDate>
+      <pubDate>Mon, 08 Sep 2025 06:05:28 +0530</pubDate>
       <guid>//localhost:1313/tags/insurance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Taxes</title>
+      <link>//localhost:1313/tags/taxes/</link>
+      <pubDate>Mon, 08 Sep 2025 06:05:28 +0530</pubDate>
+      <guid>//localhost:1313/tags/taxes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fintech</title>
+      <link>//localhost:1313/tags/fintech/</link>
+      <pubDate>Sat, 30 Aug 2025 06:00:00 +0530</pubDate>
+      <guid>//localhost:1313/tags/fintech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Retirement</title>
+      <link>//localhost:1313/tags/retirement/</link>
+      <pubDate>Sat, 30 Aug 2025 06:00:00 +0530</pubDate>
+      <guid>//localhost:1313/tags/retirement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Budgeting</title>
+      <link>//localhost:1313/tags/budgeting/</link>
+      <pubDate>Thu, 14 Aug 2025 11:30:00 +0530</pubDate>
+      <guid>//localhost:1313/tags/budgeting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Financial-Freedom</title>
+      <link>//localhost:1313/tags/financial-freedom/</link>
+      <pubDate>Thu, 14 Aug 2025 11:30:00 +0530</pubDate>
+      <guid>//localhost:1313/tags/financial-freedom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Investment</title>
+      <link>//localhost:1313/tags/investment/</link>
+      <pubDate>Thu, 14 Aug 2025 11:30:00 +0530</pubDate>
+      <guid>//localhost:1313/tags/investment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Equities</title>
+      <link>//localhost:1313/tags/equities/</link>
+      <pubDate>Tue, 29 Jul 2025 02:30:00 +0530</pubDate>
+      <guid>//localhost:1313/tags/equities/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Financial</title>
+      <link>//localhost:1313/tags/financial/</link>
+      <pubDate>Tue, 01 Aug 2023 21:29:20 +0200</pubDate>
+      <guid>//localhost:1313/tags/financial/</guid>
       <description></description>
     </item>
     <item>
       <title>Planning</title>
       <link>//localhost:1313/tags/planning/</link>
-      <pubDate>Thu, 03 Aug 2023 21:29:20 +0200</pubDate>
+      <pubDate>Tue, 01 Aug 2023 21:29:20 +0200</pubDate>
       <guid>//localhost:1313/tags/planning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Health</title>
-      <link>//localhost:1313/tags/health/</link>
-      <pubDate>Tue, 01 Aug 2023 21:29:20 +0200</pubDate>
-      <guid>//localhost:1313/tags/health/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Medical</title>
-      <link>//localhost:1313/tags/medical/</link>
-      <pubDate>Tue, 01 Aug 2023 21:29:20 +0200</pubDate>
-      <guid>//localhost:1313/tags/medical/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Golang</title>
-      <link>//localhost:1313/tags/golang/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      <guid>//localhost:1313/tags/golang/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hugo</title>
-      <link>//localhost:1313/tags/hugo/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      <guid>//localhost:1313/tags/hugo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Programming</title>
-      <link>//localhost:1313/tags/programming/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      <guid>//localhost:1313/tags/programming/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Go</title>
-      <link>//localhost:1313/tags/go/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      <guid>//localhost:1313/tags/go/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ipsum</title>
-      <link>//localhost:1313/tags/ipsum/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/ipsum/</guid>
       <description></description>
     </item>
   </channel>

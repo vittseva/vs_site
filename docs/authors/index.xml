@@ -6,27 +6,20 @@
     <description>Recent content in Authors on VittSeva</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jul 2024 13:50:46 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 02:30:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Editorial Team</title>
+      <link>//localhost:1313/authors/editorial-team/</link>
+      <pubDate>Tue, 16 Sep 2025 02:30:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/editorial-team/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Abhinav Jain</title>
       <link>//localhost:1313/authors/abhinav-jain/</link>
-      <pubDate>Sun, 14 Jul 2024 13:50:46 +0200</pubDate>
+      <pubDate>Tue, 01 Aug 2023 21:29:20 +0200</pubDate>
       <guid>//localhost:1313/authors/abhinav-jain/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jane Doe</title>
-      <link>//localhost:1313/authors/jane-doe/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      <guid>//localhost:1313/authors/jane-doe/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>John Doe</title>
-      <link>//localhost:1313/authors/john-doe/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      <guid>//localhost:1313/authors/john-doe/</guid>
       <description></description>
     </item>
   </channel>

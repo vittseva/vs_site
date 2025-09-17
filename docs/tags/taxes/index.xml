@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taxes on VittSeva</title>
+    <link>//localhost:1313/tags/taxes/</link>
+    <description>Recent content in Taxes on VittSeva</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 08 Sep 2025 06:05:28 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/taxes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigating the New GST Landscape: What It Means for Your Wallet</title>
+      <link>//localhost:1313/blog/2025/09/08/2025-09-08-navigating-the-new-gst-landscape-what-it-means-for-your-wall/</link>
+      <pubDate>Mon, 08 Sep 2025 06:05:28 +0530</pubDate>
+      <guid>//localhost:1313/blog/2025/09/08/2025-09-08-navigating-the-new-gst-landscape-what-it-means-for-your-wall/</guid>
+      <description>Explore the recent GST reforms in India and how they impact consumers and investors alike.</description>
+    </item>
+  </channel>
+</rss>
