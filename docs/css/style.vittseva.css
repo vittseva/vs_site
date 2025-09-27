@@ -1,0 +1,308 @@
+
+/* ==========================================================================
+   VittSeva revamp – drop-in CSS for Hugo Universal
+   File: vittseva.css
+   Notes:
+   - Designed to sit AFTER the theme's default CSS so it overrides where needed.
+   - Styles are scoped to specific classes used in the new sample HTML to avoid regressions.
+   - You can optionally add class "font-inter" on <body> (or keep it) to activate the Inter font.
+   ========================================================================== */
+
+/* ---------- Design tokens ---------- */
+:root {
+  --vs-blue: #2563eb;       /* primary */
+  --vs-blue-600: #2563eb;
+  --vs-blue-700: #1d4ed8;
+  --vs-green: #22c55e;      /* accent */
+  --vs-green-600: #16a34a;
+  --vs-slate-900: #0f172a;
+  --vs-gray-900: #111827;
+  --vs-gray-700: #374151;
+  --vs-gray-600: #4b5563;
+  --vs-gray-500: #6b7280;
+  --vs-gray-300: #d1d5db;
+  --vs-gray-200: #e5e7eb;
+  --vs-gray-100: #f3f4f6;
+  --vs-white: #ffffff;
+  --vs-radius: 16px;
+  --vs-shadow-sm: 0 1px 2px rgba(0,0,0,.06);
+  --vs-shadow: 0 10px 20px rgba(2, 6, 23, 0.08), 0 4px 8px rgba(2, 6, 23, 0.06);
+  --vs-shadow-lg: 0 20px 40px rgba(2, 6, 23, 0.12);
+}
+
+/* Prefer Inter if available (sample HTML already loads it) */
+.font-inter, body.font-inter {
+  font-family: "Inter", system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+/* ---------- Header (fixed, translucent, blurred) ---------- */
+header.fixed {
+  background: rgba(255,255,255,0.8);
+  backdrop-filter: saturate(160%) blur(10px);
+  -webkit-backdrop-filter: saturate(160%) blur(10px);
+  border-bottom: 1px solid var(--vs-gray-200);
+}
+header.fixed a {
+  color: #4b5563;
+  font-weight: 600;
+}
+header.fixed a:hover {
+  color: #111827;
+  text-decoration: none;
+}
+
+/* Align with theme nav spacing without breaking existing layout */
+header.fixed nav a {
+  padding: .5rem .25rem;
+  margin: 0 .5rem;
+}
+
+/* ---------- Buttons ---------- */
+.btn-gradient,
+a.btn-gradient {
+  --g1: var(--vs-green);
+  --g2: var(--vs-blue);
+  display: inline-block;
+  background-image: linear-gradient(90deg, var(--g1), var(--g2));
+  color: #fff !important;
+  font-weight: 700;
+  border: 0;
+  padding: .825rem 1.25rem;
+  border-radius: 10px;
+  box-shadow: var(--vs-shadow);
+  transition: transform .12s ease, box-shadow .2s ease, filter .2s ease;
+  text-decoration: none;
+}
+.btn-gradient:hover {
+  filter: brightness(1.05);
+  box-shadow: var(--vs-shadow-lg);
+  transform: translateY(-1px);
+  text-decoration: none;
+}
+.btn-gradient:active {
+  transform: translateY(0);
+  box-shadow: var(--vs-shadow-sm);
+}
+
+/* Outline inverse */
+.btn-gradient-outline,
+a.btn-gradient-outline {
+  background: transparent;
+  color: var(--vs-blue) !important;
+  border: 2px solid currentColor;
+  border-radius: 10px;
+  font-weight: 700;
+  padding: .75rem 1.15rem;
+  text-decoration: none;
+}
+.btn-gradient-outline:hover {
+  color: #fff !important;
+  background-image: linear-gradient(90deg, var(--vs-green), var(--vs-blue));
+  border-color: transparent;
+}
+
+/* ---------- Sections & containers ---------- */
+.section-hero {
+  background-image: linear-gradient(135deg, #ecfdf5, #eff6ff, #ffffff);
+}
+.section-muted {
+  background: var(--vs-gray-100);
+}
+
+.container-narrow {
+  max-width: 72rem;
+  margin-inline: auto;
+  padding: 0 1.25rem;
+}
+.container-wide {
+  max-width: 90rem;
+  margin-inline: auto;
+  padding: 0 1.5rem;
+}
+
+.section-title {
+  font-size: clamp(1.75rem, 1.1rem + 2vw, 2.5rem);
+  font-weight: 800;
+  color: var(--vs-gray-900);
+  margin: 0 0 1rem 0;
+}
+.section-subtitle {
+  color: var(--vs-gray-600);
+  font-size: 1.125rem;
+}
+
+/* ---------- Cards (services, testimonials, stats) ---------- */
+.service-card,
+.testimonial-card,
+.stat-card {
+  background: #fff;
+  border: 1px solid var(--vs-gray-200);
+  border-radius: var(--vs-radius);
+  padding: 1.25rem;
+  box-shadow: var(--vs-shadow-sm);
+  height: 100%;
+  transition: border-color .2s ease, box-shadow .2s ease, transform .12s ease;
+}
+.service-card:hover,
+.testimonial-card:hover,
+.stat-card:hover {
+  border-color: #bfdbfe;
+  box-shadow: var(--vs-shadow);
+  transform: translateY(-2px);
+}
+
+/* Icon containers used in cards */
+.card-icon,
+.service-card .w-16.h-16,
+.service-card .w-12.h-12 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #eff6ff;
+  color: var(--vs-blue);
+  border-radius: 12px;
+}
+
+/* Service card headings & text */
+.service-card h3 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--vs-gray-900);
+  margin: .25rem 0 .5rem;
+}
+.service-card p {
+  color: var(--vs-gray-600);
+  font-size: .95rem;
+  line-height: 1.6;
+}
+
+/* Testimonial styling */
+.testimonial-card .stars {
+  display: inline-flex;
+  gap: .25rem;
+  color: #f59e0b;
+  margin-bottom: .75rem;
+}
+.testimonial-card p {
+  color: var(--vs-gray-700);
+  font-style: italic;
+  font-size: 1.05rem;
+}
+.testimonial-card .author {
+  margin-top: 1rem;
+  font-weight: 700;
+  color: var(--vs-gray-900);
+}
+.testimonial-card .role {
+  color: var(--vs-gray-500);
+}
+
+/* Stats blocks */
+.stat-card h3 {
+  font-size: 2rem;
+  font-weight: 800;
+  margin: .25rem 0;
+}
+
+/* ---------- Feature list with ticks ---------- */
+.feature-row {
+  display: grid;
+  grid-template-columns: 2rem 1fr;
+  gap: .75rem;
+}
+.feature-row .tick {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.tick.green { background: #dcfce7; color: #16a34a; }
+.tick.blue  { background: #dbeafe; color: #2563eb; }
+.tick.purple{ background: #ede9fe; color: #7c3aed; }
+
+/* ---------- Panels / pricing box on right column ---------- */
+.pricing-panel {
+  background: linear-gradient(135deg, #f0fdf4, #eff6ff);
+  border-radius: 20px;
+  padding: 2rem;
+}
+.pricing-panel .panel-inner {
+  background: #fff;
+  border-radius: 14px;
+  padding: 1.25rem;
+  box-shadow: var(--vs-shadow);
+}
+.pricing-panel .price-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: .625rem 0;
+  border-bottom: 1px solid #f3f4f6;
+}
+.pricing-panel .price-row:last-child { border-bottom: 0; }
+.pricing-panel .badge-free { color: #16a34a; font-weight: 700; }
+.pricing-panel .badge-from { color: var(--vs-blue); font-weight: 700; }
+
+/* ---------- Footer gradient refresh ---------- */
+footer .vs-footer-gradient,
+footer.bg-gradient,
+footer.bg-gradient-to-br {
+  background: linear-gradient(135deg, #0b1220, #111827);
+}
+footer .links a { color: #cbd5e1; }
+footer .links a:hover { color: #fff; text-decoration: none; }
+
+/* ---------- Smooth in-page anchor scrolling (progressive enhance) ---------- */
+html {
+  scroll-behavior: smooth;
+}
+
+/* ---------- Responsive helpers ---------- */
+@media (min-width: 1024px) {
+  .grid-3 { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 2rem; }
+  .grid-2 { display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: 2rem; }
+  .grid-4 { display: grid; grid-template-columns: repeat(4, minmax(0,1fr)); gap: 2rem; }
+}
+@media (max-width: 1023.98px) {
+  .hide-lg { display: none !important; }
+}
+
+/* ---------- Small utilities that mirror the sample HTML ---------- */
+.text-gradient {
+  background: linear-gradient(90deg, var(--vs-green), var(--vs-blue));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* Hero CTA band */
+.cta-band {
+  position: relative;
+  border-radius: 20px;
+  padding: 2rem;
+  color: #fff;
+  background: linear-gradient(90deg, var(--vs-green-600), var(--vs-blue-600));
+  box-shadow: var(--vs-shadow-lg);
+}
+.cta-band .cta-actions a {
+  margin: .25rem .5rem;
+}
+
+/* Optional: make theme buttons visually consistent when used alongside */
+.btn-template-primary,
+.btn.btn-primary {
+  background-color: var(--vs-blue-600);
+  border-color: var(--vs-blue-600);
+  color: #fff;
+  border-radius: 10px;
+  font-weight: 700;
+  padding: .7rem 1.1rem;
+}
+.btn-template-primary:hover,
+.btn.btn-primary:hover {
+  background-color: var(--vs-blue-700);
+  border-color: var(--vs-blue-700);
+  color: #fff;
+}
