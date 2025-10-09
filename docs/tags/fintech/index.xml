@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fintech on VittSeva</title><link>/tags/fintech/</link><description>Recent content in Fintech on VittSeva</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 14 Sep 2025 00:30:29 +0530</lastBuildDate><atom:link href="/tags/fintech/index.xml" rel="self" type="application/rss+xml"/><item><title>Market Insights: Navigating the Financial Landscape Post-GST Reforms</title><link>/blog/2025/09/14/2025-09-14-market-insights-navigating-the-financial-landscape-post-gst-/</link><pubDate>Sun, 14 Sep 2025 00:30:29 +0530</pubDate><guid>/blog/2025/09/14/2025-09-14-market-insights-navigating-the-financial-landscape-post-gst-/</guid><description>The recent GST reforms in India signal a shift in the financial landscape, affecting markets and investment strategies.</description></item><item><title>Market Insights: The Rise of Income Plus Arbitrage Funds</title><link>/blog/2025/08/30/2025-08-30-market-insights-the-rise-of-income-plus-arbitrage-funds/</link><pubDate>Sat, 30 Aug 2025 06:00:00 +0530</pubDate><guid>/blog/2025/08/30/2025-08-30-market-insights-the-rise-of-income-plus-arbitrage-funds/</guid><description>Discover the emerging trend of Income Plus Arbitrage Funds and their potential impact on investment strategies.</description></item><item><title>Navigating the New Landscape of Investment Vehicles</title><link>/blog/2025/08/14/2025-08-14-navigating-the-new-landscape-of-investment-vehicles/</link><pubDate>Thu, 14 Aug 2025 11:30:00 +0530</pubDate><guid>/blog/2025/08/14/2025-08-14-navigating-the-new-landscape-of-investment-vehicles/</guid><description>Explore the emerging investment vehicles reshaping the financial landscape.</description></item><item><title>Market Insights: The Rise of AI in Finance and Investment Strategies</title><link>/blog/2025/07/14/2025-07-14-market-insights-the-rise-of-ai-in-finance-and-investment-str/</link><pubDate>Mon, 14 Jul 2025 10:00:00 +0530</pubDate><guid>/blog/2025/07/14/2025-07-14-market-insights-the-rise-of-ai-in-finance-and-investment-str/</guid><description>Explore how AI is transforming finance and what it means for investors and markets.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fintech on VittSeva</title>
+    <link>//localhost:1313/tags/fintech/</link>
+    <description>Recent content in Fintech on VittSeva</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 30 Sep 2025 00:00:00 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/fintech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Market Insights: Understanding Current Trends and Future Directions</title>
+      <link>//localhost:1313/blog/2025/09/30/2025-09-30-market-insights-understanding-current-trends-and-future-dire/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0530</pubDate>
+      <guid>//localhost:1313/blog/2025/09/30/2025-09-30-market-insights-understanding-current-trends-and-future-dire/</guid>
+      <description>Dive into the latest market trends and insights, exploring how they shape investment strategies.</description>
+    </item>
+    <item>
+      <title>Market Insights: Navigating the Financial Landscape Post-GST Reforms</title>
+      <link>//localhost:1313/blog/2025/09/14/2025-09-14-market-insights-navigating-the-financial-landscape-post-gst-/</link>
+      <pubDate>Sun, 14 Sep 2025 00:30:29 +0530</pubDate>
+      <guid>//localhost:1313/blog/2025/09/14/2025-09-14-market-insights-navigating-the-financial-landscape-post-gst-/</guid>
+      <description>The recent GST reforms in India signal a shift in the financial landscape, affecting markets and investment strategies.</description>
+    </item>
+    <item>
+      <title>Market Insights: The Rise of Income Plus Arbitrage Funds</title>
+      <link>//localhost:1313/blog/2025/08/30/2025-08-30-market-insights-the-rise-of-income-plus-arbitrage-funds/</link>
+      <pubDate>Sat, 30 Aug 2025 06:00:00 +0530</pubDate>
+      <guid>//localhost:1313/blog/2025/08/30/2025-08-30-market-insights-the-rise-of-income-plus-arbitrage-funds/</guid>
+      <description>Discover the emerging trend of Income Plus Arbitrage Funds and their potential impact on investment strategies.</description>
+    </item>
+    <item>
+      <title>Navigating the New Landscape of Investment Vehicles</title>
+      <link>//localhost:1313/blog/2025/08/14/2025-08-14-navigating-the-new-landscape-of-investment-vehicles/</link>
+      <pubDate>Thu, 14 Aug 2025 11:30:00 +0530</pubDate>
+      <guid>//localhost:1313/blog/2025/08/14/2025-08-14-navigating-the-new-landscape-of-investment-vehicles/</guid>
+      <description>Explore the emerging investment vehicles reshaping the financial landscape.</description>
+    </item>
+    <item>
+      <title>Market Insights: The Rise of AI in Finance and Investment Strategies</title>
+      <link>//localhost:1313/blog/2025/07/14/2025-07-14-market-insights-the-rise-of-ai-in-finance-and-investment-str/</link>
+      <pubDate>Mon, 14 Jul 2025 10:00:00 +0530</pubDate>
+      <guid>//localhost:1313/blog/2025/07/14/2025-07-14-market-insights-the-rise-of-ai-in-finance-and-investment-str/</guid>
+      <description>Explore how AI is transforming finance and what it means for investors and markets.</description>
+    </item>
+  </channel>
+</rss>

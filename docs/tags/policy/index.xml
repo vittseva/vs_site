@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Policy on VittSeva</title><link>/tags/policy/</link><description>Recent content in Policy on VittSeva</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 16 Sep 2025 02:30:00 +0000</lastBuildDate><atom:link href="/tags/policy/index.xml" rel="self" type="application/rss+xml"/><item><title>Market Insights: Navigating the Evolving Landscape of Mutual Funds</title><link>/blog/2025/09/16/2025-09-16-market-insights-navigating-the-evolving-landscape-of-mutual-/</link><pubDate>Tue, 16 Sep 2025 02:30:00 +0000</pubDate><guid>/blog/2025/09/16/2025-09-16-market-insights-navigating-the-evolving-landscape-of-mutual-/</guid><description>Explore the latest trends and regulatory changes in the mutual fund market that could impact your investments.</description></item><item><title>Market Insights: Navigating the Financial Landscape Post-GST Reforms</title><link>/blog/2025/09/14/2025-09-14-market-insights-navigating-the-financial-landscape-post-gst-/</link><pubDate>Sun, 14 Sep 2025 00:30:29 +0530</pubDate><guid>/blog/2025/09/14/2025-09-14-market-insights-navigating-the-financial-landscape-post-gst-/</guid><description>The recent GST reforms in India signal a shift in the financial landscape, affecting markets and investment strategies.</description></item><item><title>Market Dynamics Post-GST Reforms: What Investors Should Know</title><link>/blog/2025/09/08/2025-09-08-market-dynamics-post-gst-reforms-what-investors-should-know/</link><pubDate>Mon, 08 Sep 2025 06:05:28 +0530</pubDate><guid>/blog/2025/09/08/2025-09-08-market-dynamics-post-gst-reforms-what-investors-should-know/</guid><description>Explore how the recent GST reforms are reshaping market dynamics and investment strategies.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Policy on VittSeva</title>
+    <link>//localhost:1313/tags/policy/</link>
+    <description>Recent content in Policy on VittSeva</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 30 Sep 2025 00:30:00 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/policy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Market Trends: Understanding the Current Financial Landscape</title>
+      <link>//localhost:1313/blog/2025/09/30/2025-09-30-market-trends-understanding-the-current-financial-landscape/</link>
+      <pubDate>Tue, 30 Sep 2025 00:30:00 +0530</pubDate>
+      <guid>//localhost:1313/blog/2025/09/30/2025-09-30-market-trends-understanding-the-current-financial-landscape/</guid>
+      <description>Explore the latest trends in the financial markets and their implications for investors.</description>
+    </item>
+    <item>
+      <title>Market Insights: Understanding Current Trends and Future Directions</title>
+      <link>//localhost:1313/blog/2025/09/30/2025-09-30-market-insights-understanding-current-trends-and-future-dire/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0530</pubDate>
+      <guid>//localhost:1313/blog/2025/09/30/2025-09-30-market-insights-understanding-current-trends-and-future-dire/</guid>
+      <description>Dive into the latest market trends and insights, exploring how they shape investment strategies.</description>
+    </item>
+    <item>
+      <title>Market Insights: Navigating the Evolving Landscape of Mutual Funds</title>
+      <link>//localhost:1313/blog/2025/09/16/2025-09-16-market-insights-navigating-the-evolving-landscape-of-mutual-/</link>
+      <pubDate>Tue, 16 Sep 2025 02:30:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/2025/09/16/2025-09-16-market-insights-navigating-the-evolving-landscape-of-mutual-/</guid>
+      <description>Explore the latest trends and regulatory changes in the mutual fund market that could impact your investments.</description>
+    </item>
+    <item>
+      <title>Market Insights: Navigating the Financial Landscape Post-GST Reforms</title>
+      <link>//localhost:1313/blog/2025/09/14/2025-09-14-market-insights-navigating-the-financial-landscape-post-gst-/</link>
+      <pubDate>Sun, 14 Sep 2025 00:30:29 +0530</pubDate>
+      <guid>//localhost:1313/blog/2025/09/14/2025-09-14-market-insights-navigating-the-financial-landscape-post-gst-/</guid>
+      <description>The recent GST reforms in India signal a shift in the financial landscape, affecting markets and investment strategies.</description>
+    </item>
+    <item>
+      <title>Market Dynamics Post-GST Reforms: What Investors Should Know</title>
+      <link>//localhost:1313/blog/2025/09/08/2025-09-08-market-dynamics-post-gst-reforms-what-investors-should-know/</link>
+      <pubDate>Mon, 08 Sep 2025 06:05:28 +0530</pubDate>
+      <guid>//localhost:1313/blog/2025/09/08/2025-09-08-market-dynamics-post-gst-reforms-what-investors-should-know/</guid>
+      <description>Explore how the recent GST reforms are reshaping market dynamics and investment strategies.</description>
+    </item>
+  </channel>
+</rss>

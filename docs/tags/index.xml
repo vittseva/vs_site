@@ -1,1 +1,152 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on VittSeva</title><link>/tags/</link><description>Recent content in Tags on VittSeva</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 16 Sep 2025 02:30:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Gold</title><link>/tags/gold/</link><pubDate>Tue, 16 Sep 2025 02:30:00 +0000</pubDate><guid>/tags/gold/</guid><description/></item><item><title>Investing</title><link>/tags/investing/</link><pubDate>Tue, 16 Sep 2025 02:30:00 +0000</pubDate><guid>/tags/investing/</guid><description/></item><item><title>Markets</title><link>/tags/markets/</link><pubDate>Tue, 16 Sep 2025 02:30:00 +0000</pubDate><guid>/tags/markets/</guid><description/></item><item><title>Mutual-Funds</title><link>/tags/mutual-funds/</link><pubDate>Tue, 16 Sep 2025 02:30:00 +0000</pubDate><guid>/tags/mutual-funds/</guid><description/></item><item><title>Personal-Finance</title><link>/tags/personal-finance/</link><pubDate>Tue, 16 Sep 2025 02:30:00 +0000</pubDate><guid>/tags/personal-finance/</guid><description/></item><item><title>Policy</title><link>/tags/policy/</link><pubDate>Tue, 16 Sep 2025 02:30:00 +0000</pubDate><guid>/tags/policy/</guid><description/></item><item><title>Budgeting</title><link>/tags/budgeting/</link><pubDate>Sun, 14 Sep 2025 00:30:29 +0530</pubDate><guid>/tags/budgeting/</guid><description/></item><item><title>Fintech</title><link>/tags/fintech/</link><pubDate>Sun, 14 Sep 2025 00:30:29 +0530</pubDate><guid>/tags/fintech/</guid><description/></item><item><title>Taxes</title><link>/tags/taxes/</link><pubDate>Sun, 14 Sep 2025 00:30:29 +0530</pubDate><guid>/tags/taxes/</guid><description/></item><item><title>Insurance</title><link>/tags/insurance/</link><pubDate>Mon, 08 Sep 2025 06:05:28 +0530</pubDate><guid>/tags/insurance/</guid><description/></item><item><title>Retirement</title><link>/tags/retirement/</link><pubDate>Sat, 30 Aug 2025 06:00:00 +0530</pubDate><guid>/tags/retirement/</guid><description/></item><item><title>Financial-Freedom</title><link>/tags/financial-freedom/</link><pubDate>Thu, 14 Aug 2025 11:30:00 +0530</pubDate><guid>/tags/financial-freedom/</guid><description/></item><item><title>Investment</title><link>/tags/investment/</link><pubDate>Thu, 14 Aug 2025 11:30:00 +0530</pubDate><guid>/tags/investment/</guid><description/></item><item><title>Equities</title><link>/tags/equities/</link><pubDate>Tue, 29 Jul 2025 02:30:00 +0530</pubDate><guid>/tags/equities/</guid><description/></item><item><title>Financial-Growth</title><link>/tags/financial-growth/</link><pubDate>Tue, 24 Jun 2025 11:22:02 +0530</pubDate><guid>/tags/financial-growth/</guid><description/></item><item><title>Income</title><link>/tags/income/</link><pubDate>Tue, 24 Jun 2025 11:22:02 +0530</pubDate><guid>/tags/income/</guid><description/></item><item><title>Financial-Services</title><link>/tags/financial-services/</link><pubDate>Tue, 24 Jun 2025 11:21:49 +0530</pubDate><guid>/tags/financial-services/</guid><description/></item><item><title>Financial</title><link>/tags/financial/</link><pubDate>Tue, 01 Aug 2023 21:29:20 +0200</pubDate><guid>/tags/financial/</guid><description/></item><item><title>Planning</title><link>/tags/planning/</link><pubDate>Tue, 01 Aug 2023 21:29:20 +0200</pubDate><guid>/tags/planning/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on VittSeva</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on VittSeva</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 30 Sep 2025 00:30:00 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Corporate-Finance</title>
+      <link>//localhost:1313/tags/corporate-finance/</link>
+      <pubDate>Tue, 30 Sep 2025 00:30:00 +0530</pubDate>
+      <guid>//localhost:1313/tags/corporate-finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Insurance</title>
+      <link>//localhost:1313/tags/insurance/</link>
+      <pubDate>Tue, 30 Sep 2025 00:30:00 +0530</pubDate>
+      <guid>//localhost:1313/tags/insurance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Investing</title>
+      <link>//localhost:1313/tags/investing/</link>
+      <pubDate>Tue, 30 Sep 2025 00:30:00 +0530</pubDate>
+      <guid>//localhost:1313/tags/investing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markets</title>
+      <link>//localhost:1313/tags/markets/</link>
+      <pubDate>Tue, 30 Sep 2025 00:30:00 +0530</pubDate>
+      <guid>//localhost:1313/tags/markets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal-Finance</title>
+      <link>//localhost:1313/tags/personal-finance/</link>
+      <pubDate>Tue, 30 Sep 2025 00:30:00 +0530</pubDate>
+      <guid>//localhost:1313/tags/personal-finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Policy</title>
+      <link>//localhost:1313/tags/policy/</link>
+      <pubDate>Tue, 30 Sep 2025 00:30:00 +0530</pubDate>
+      <guid>//localhost:1313/tags/policy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Retirement</title>
+      <link>//localhost:1313/tags/retirement/</link>
+      <pubDate>Tue, 30 Sep 2025 00:30:00 +0530</pubDate>
+      <guid>//localhost:1313/tags/retirement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fintech</title>
+      <link>//localhost:1313/tags/fintech/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0530</pubDate>
+      <guid>//localhost:1313/tags/fintech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gold</title>
+      <link>//localhost:1313/tags/gold/</link>
+      <pubDate>Tue, 16 Sep 2025 02:30:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/gold/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mutual-Funds</title>
+      <link>//localhost:1313/tags/mutual-funds/</link>
+      <pubDate>Tue, 16 Sep 2025 02:30:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/mutual-funds/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Budgeting</title>
+      <link>//localhost:1313/tags/budgeting/</link>
+      <pubDate>Sun, 14 Sep 2025 00:30:29 +0530</pubDate>
+      <guid>//localhost:1313/tags/budgeting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Taxes</title>
+      <link>//localhost:1313/tags/taxes/</link>
+      <pubDate>Sun, 14 Sep 2025 00:30:29 +0530</pubDate>
+      <guid>//localhost:1313/tags/taxes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Financial-Freedom</title>
+      <link>//localhost:1313/tags/financial-freedom/</link>
+      <pubDate>Thu, 14 Aug 2025 11:30:00 +0530</pubDate>
+      <guid>//localhost:1313/tags/financial-freedom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Investment</title>
+      <link>//localhost:1313/tags/investment/</link>
+      <pubDate>Thu, 14 Aug 2025 11:30:00 +0530</pubDate>
+      <guid>//localhost:1313/tags/investment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Equities</title>
+      <link>//localhost:1313/tags/equities/</link>
+      <pubDate>Tue, 29 Jul 2025 02:30:00 +0530</pubDate>
+      <guid>//localhost:1313/tags/equities/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Financial-Growth</title>
+      <link>//localhost:1313/tags/financial-growth/</link>
+      <pubDate>Tue, 24 Jun 2025 11:22:02 +0530</pubDate>
+      <guid>//localhost:1313/tags/financial-growth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Income</title>
+      <link>//localhost:1313/tags/income/</link>
+      <pubDate>Tue, 24 Jun 2025 11:22:02 +0530</pubDate>
+      <guid>//localhost:1313/tags/income/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Financial-Services</title>
+      <link>//localhost:1313/tags/financial-services/</link>
+      <pubDate>Tue, 24 Jun 2025 11:21:49 +0530</pubDate>
+      <guid>//localhost:1313/tags/financial-services/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Financial</title>
+      <link>//localhost:1313/tags/financial/</link>
+      <pubDate>Tue, 01 Aug 2023 21:29:20 +0200</pubDate>
+      <guid>//localhost:1313/tags/financial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Planning</title>
+      <link>//localhost:1313/tags/planning/</link>
+      <pubDate>Tue, 01 Aug 2023 21:29:20 +0200</pubDate>
+      <guid>//localhost:1313/tags/planning/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
