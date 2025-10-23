@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on VittSeva</title>
-    <link>//localhost:1313/authors/</link>
+    <link>/authors/</link>
     <description>Recent content in Authors on VittSeva</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 14 Oct 2025 00:30:00 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Editorial Team</title>
-      <link>//localhost:1313/authors/editorial-team/</link>
+      <link>/authors/editorial-team/</link>
       <pubDate>Tue, 14 Oct 2025 00:30:00 +0530</pubDate>
-      <guid>//localhost:1313/authors/editorial-team/</guid>
+      <guid>/authors/editorial-team/</guid>
       <description></description>
     </item>
     <item>
       <title>Abhinav Jain</title>
-      <link>//localhost:1313/authors/abhinav-jain/</link>
+      <link>/authors/abhinav-jain/</link>
       <pubDate>Tue, 01 Aug 2023 21:29:20 +0200</pubDate>
-      <guid>//localhost:1313/authors/abhinav-jain/</guid>
+      <guid>/authors/abhinav-jain/</guid>
       <description></description>
     </item>
   </channel>

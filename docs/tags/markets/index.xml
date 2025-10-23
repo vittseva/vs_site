@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markets on VittSeva</title>
-    <link>//localhost:1313/tags/markets/</link>
+    <link>/tags/markets/</link>
     <description>Recent content in Markets on VittSeva</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 30 Sep 2025 00:30:00 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/markets/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/markets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Market Trends: Understanding the Current Financial Landscape</title>
-      <link>//localhost:1313/blog/2025/09/30/2025-09-30-market-trends-understanding-the-current-financial-landscape/</link>
+      <link>/blog/2025/09/30/2025-09-30-market-trends-understanding-the-current-financial-landscape/</link>
       <pubDate>Tue, 30 Sep 2025 00:30:00 +0530</pubDate>
-      <guid>//localhost:1313/blog/2025/09/30/2025-09-30-market-trends-understanding-the-current-financial-landscape/</guid>
+      <guid>/blog/2025/09/30/2025-09-30-market-trends-understanding-the-current-financial-landscape/</guid>
       <description>Explore the latest trends in the financial markets and their implications for investors.</description>
     </item>
     <item>
       <title>Market Insights: Navigating the Evolving Landscape of Mutual Funds</title>
-      <link>//localhost:1313/blog/2025/09/16/2025-09-16-market-insights-navigating-the-evolving-landscape-of-mutual-/</link>
+      <link>/blog/2025/09/16/2025-09-16-market-insights-navigating-the-evolving-landscape-of-mutual-/</link>
       <pubDate>Tue, 16 Sep 2025 02:30:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/2025/09/16/2025-09-16-market-insights-navigating-the-evolving-landscape-of-mutual-/</guid>
+      <guid>/blog/2025/09/16/2025-09-16-market-insights-navigating-the-evolving-landscape-of-mutual-/</guid>
       <description>Explore the latest trends and regulatory changes in the mutual fund market that could impact your investments.</description>
     </item>
     <item>
       <title>Market Insights: Navigating the Financial Landscape Post-GST Reforms</title>
-      <link>//localhost:1313/blog/2025/09/14/2025-09-14-market-insights-navigating-the-financial-landscape-post-gst-/</link>
+      <link>/blog/2025/09/14/2025-09-14-market-insights-navigating-the-financial-landscape-post-gst-/</link>
       <pubDate>Sun, 14 Sep 2025 00:30:29 +0530</pubDate>
-      <guid>//localhost:1313/blog/2025/09/14/2025-09-14-market-insights-navigating-the-financial-landscape-post-gst-/</guid>
+      <guid>/blog/2025/09/14/2025-09-14-market-insights-navigating-the-financial-landscape-post-gst-/</guid>
       <description>The recent GST reforms in India signal a shift in the financial landscape, affecting markets and investment strategies.</description>
     </item>
     <item>
       <title>Market Dynamics Post-GST Reforms: What Investors Should Know</title>
-      <link>//localhost:1313/blog/2025/09/08/2025-09-08-market-dynamics-post-gst-reforms-what-investors-should-know/</link>
+      <link>/blog/2025/09/08/2025-09-08-market-dynamics-post-gst-reforms-what-investors-should-know/</link>
       <pubDate>Mon, 08 Sep 2025 06:05:28 +0530</pubDate>
-      <guid>//localhost:1313/blog/2025/09/08/2025-09-08-market-dynamics-post-gst-reforms-what-investors-should-know/</guid>
+      <guid>/blog/2025/09/08/2025-09-08-market-dynamics-post-gst-reforms-what-investors-should-know/</guid>
       <description>Explore how the recent GST reforms are reshaping market dynamics and investment strategies.</description>
     </item>
     <item>
       <title>Market Insights: The Rise of Income Plus Arbitrage Funds</title>
-      <link>//localhost:1313/blog/2025/08/30/2025-08-30-market-insights-the-rise-of-income-plus-arbitrage-funds/</link>
+      <link>/blog/2025/08/30/2025-08-30-market-insights-the-rise-of-income-plus-arbitrage-funds/</link>
       <pubDate>Sat, 30 Aug 2025 06:00:00 +0530</pubDate>
-      <guid>//localhost:1313/blog/2025/08/30/2025-08-30-market-insights-the-rise-of-income-plus-arbitrage-funds/</guid>
+      <guid>/blog/2025/08/30/2025-08-30-market-insights-the-rise-of-income-plus-arbitrage-funds/</guid>
       <description>Discover the emerging trend of Income Plus Arbitrage Funds and their potential impact on investment strategies.</description>
     </item>
     <item>
       <title>Navigating the New Landscape of Investment Vehicles</title>
-      <link>//localhost:1313/blog/2025/08/14/2025-08-14-navigating-the-new-landscape-of-investment-vehicles/</link>
+      <link>/blog/2025/08/14/2025-08-14-navigating-the-new-landscape-of-investment-vehicles/</link>
       <pubDate>Thu, 14 Aug 2025 11:30:00 +0530</pubDate>
-      <guid>//localhost:1313/blog/2025/08/14/2025-08-14-navigating-the-new-landscape-of-investment-vehicles/</guid>
+      <guid>/blog/2025/08/14/2025-08-14-navigating-the-new-landscape-of-investment-vehicles/</guid>
       <description>Explore the emerging investment vehicles reshaping the financial landscape.</description>
     </item>
     <item>
       <title>Revisiting Stock Classifications: The Case for Expanding Large and Midcap Categories</title>
-      <link>//localhost:1313/blog/2025/07/29/2025-07-29-revisiting-stock-classifications-the-case-for-expanding-larg/</link>
+      <link>/blog/2025/07/29/2025-07-29-revisiting-stock-classifications-the-case-for-expanding-larg/</link>
       <pubDate>Tue, 29 Jul 2025 02:30:00 +0530</pubDate>
-      <guid>//localhost:1313/blog/2025/07/29/2025-07-29-revisiting-stock-classifications-the-case-for-expanding-larg/</guid>
+      <guid>/blog/2025/07/29/2025-07-29-revisiting-stock-classifications-the-case-for-expanding-larg/</guid>
       <description>Explore the implications of redefining stock classifications for investors and the market.</description>
     </item>
     <item>
       <title>Market Insights: The Rise of AI in Finance and Investment Strategies</title>
-      <link>//localhost:1313/blog/2025/07/14/2025-07-14-market-insights-the-rise-of-ai-in-finance-and-investment-str/</link>
+      <link>/blog/2025/07/14/2025-07-14-market-insights-the-rise-of-ai-in-finance-and-investment-str/</link>
       <pubDate>Mon, 14 Jul 2025 10:00:00 +0530</pubDate>
-      <guid>//localhost:1313/blog/2025/07/14/2025-07-14-market-insights-the-rise-of-ai-in-finance-and-investment-str/</guid>
+      <guid>/blog/2025/07/14/2025-07-14-market-insights-the-rise-of-ai-in-finance-and-investment-str/</guid>
       <description>Explore how AI is transforming finance and what it means for investors and markets.</description>
     </item>
     <item>
       <title>Navigating the Financial Landscape: Insights into Recent Market Trends</title>
-      <link>//localhost:1313/blog/2025/06/24/2025-06-24-navigating-the-financial-landscape-insights-into-recent-mark/</link>
+      <link>/blog/2025/06/24/2025-06-24-navigating-the-financial-landscape-insights-into-recent-mark/</link>
       <pubDate>Tue, 24 Jun 2025 11:21:49 +0530</pubDate>
-      <guid>//localhost:1313/blog/2025/06/24/2025-06-24-navigating-the-financial-landscape-insights-into-recent-mark/</guid>
+      <guid>/blog/2025/06/24/2025-06-24-navigating-the-financial-landscape-insights-into-recent-mark/</guid>
       <description>Explore the latest trends in financial markets and what they mean for investors.</description>
     </item>
   </channel>

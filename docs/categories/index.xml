@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on VittSeva</title>
-    <link>//localhost:1313/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on VittSeva</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 14 Oct 2025 00:30:00 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Personal Finance</title>
-      <link>//localhost:1313/categories/personal-finance/</link>
+      <link>/categories/personal-finance/</link>
       <pubDate>Tue, 14 Oct 2025 00:30:00 +0530</pubDate>
-      <guid>//localhost:1313/categories/personal-finance/</guid>
+      <guid>/categories/personal-finance/</guid>
       <description></description>
     </item>
     <item>
       <title>Policy</title>
-      <link>//localhost:1313/categories/policy/</link>
+      <link>/categories/policy/</link>
       <pubDate>Tue, 14 Oct 2025 00:30:00 +0530</pubDate>
-      <guid>//localhost:1313/categories/policy/</guid>
+      <guid>/categories/policy/</guid>
       <description></description>
     </item>
     <item>
       <title>Markets</title>
-      <link>//localhost:1313/categories/markets/</link>
+      <link>/categories/markets/</link>
       <pubDate>Tue, 30 Sep 2025 00:30:00 +0530</pubDate>
-      <guid>//localhost:1313/categories/markets/</guid>
+      <guid>/categories/markets/</guid>
       <description></description>
     </item>
     <item>
       <title>Insurance</title>
-      <link>//localhost:1313/categories/insurance/</link>
+      <link>/categories/insurance/</link>
       <pubDate>Tue, 01 Aug 2023 21:29:20 +0200</pubDate>
-      <guid>//localhost:1313/categories/insurance/</guid>
+      <guid>/categories/insurance/</guid>
       <description></description>
     </item>
     <item>
       <title>Planning</title>
-      <link>//localhost:1313/categories/planning/</link>
+      <link>/categories/planning/</link>
       <pubDate>Tue, 01 Aug 2023 21:29:20 +0200</pubDate>
-      <guid>//localhost:1313/categories/planning/</guid>
+      <guid>/categories/planning/</guid>
       <description></description>
     </item>
   </channel>

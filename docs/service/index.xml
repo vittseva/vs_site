@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on VittSeva</title>
-    <link>//localhost:1313/service/</link>
+    <link>/service/</link>
     <description>Recent content in Services on VittSeva</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="//localhost:1313/service/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/service/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Accounting and Tax</title>
-      <link>//localhost:1313/service/accounting-tax/</link>
+      <link>/service/accounting-tax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/service/accounting-tax/</guid>
+      <guid>/service/accounting-tax/</guid>
       <description>&lt;h3 id=&#34;streamlined-finances-optimized-returns&#34;&gt;Streamlined Finances, Optimized Returns&lt;/h3&gt;&#xA;&lt;p&gt;Accounting and tax filing services are critical for both individuals and businesses to achieve financial stability and compliance. We offer comprehensive solutions for both, ranging from bookkeeping and tax planning to the preparation and filing of taxes. For individuals, we provide personalized services to help manage their finances and minimize their tax liability.&lt;/p&gt;&#xA;&lt;p&gt;For businesses, we offer customized solutions to ensure accurate financial reporting and compliance with tax laws. With our team of experienced professionals, you can trust us to provide effective and efficient services.&#xA;Our aim is to serve you and achieve your financial objectives by providing reliable &amp;amp; quality accounting and tax filing services.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Business Banking</title>
-      <link>//localhost:1313/service/business-banking/</link>
+      <link>/service/business-banking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/service/business-banking/</guid>
+      <guid>/service/business-banking/</guid>
       <description>&lt;h3 id=&#34;tailored-solutions-for-business-growth&#34;&gt;Tailored Solutions for Business Growth&lt;/h3&gt;&#xA;&lt;p&gt;A start-up, an One Person Company, or an established high-revenue company; banking needs are different at different stages of the business.&lt;/p&gt;&#xA;&lt;p&gt;We bring to you the right options as per your business needs for banking and invoicing, payment collection and payment settlements, payment instruments, and expense tracking for your employees.&lt;/p&gt;&#xA;&lt;p&gt;All these and much more through a completely online process to reduce your workload and manage very efficiently all your funds, finances, expenses, collections, taxes &amp;amp; tracking all of these.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claim Settlement</title>
-      <link>//localhost:1313/service/claim-settlement/</link>
+      <link>/service/claim-settlement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/service/claim-settlement/</guid>
+      <guid>/service/claim-settlement/</guid>
       <description>&lt;h3 id=&#34;efficient-solutions-for-fair-compensation&#34;&gt;Efficient Solutions for Fair Compensation&lt;/h3&gt;&#xA;&lt;p&gt;Bringing your money back&lt;/p&gt;&#xA;&lt;p&gt;Yes! We help policyholders, shareholders, or customers with financial products in resolving the grievance of all verticals i.e. Life, Health and General Insurance, shareholding, Mutual funds, and many more.&lt;/p&gt;&#xA;&lt;p&gt;A smooth and effortless claim redressal process is what we offer.&lt;/p&gt;&#xA;&lt;p&gt;Our endeavor is to reach out to every customer to provide an efficient resolution to get the funds they deserve.&lt;/p&gt;&#xA;&lt;p&gt;We bring customized service to nagging problems of Lost / Forgotten / Blocked investments in financial instruments such as Shares/ Mutual funds / Provident Funds / Insurance / Postal savings / Bank accounts etc.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Funding and Finance</title>
-      <link>//localhost:1313/service/funding-finance/</link>
+      <link>/service/funding-finance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/service/funding-finance/</guid>
+      <guid>/service/funding-finance/</guid>
       <description>&lt;h3 id=&#34;fueling-ambitions-enabling-success&#34;&gt;Fueling Ambitions, Enabling Success&lt;/h3&gt;&#xA;&lt;p&gt;Thinking of starting up or running a business, funding, and managing finances are crucial needs and can be a challenge at any point in time in the business.&lt;/p&gt;&#xA;&lt;p&gt;We offer very selective and carefully associated experts who can make and manage these requirements and make your business experiences better to focus on your core strengths.&lt;/p&gt;&#xA;&lt;p&gt;Our team will not only support fundraising; we may provide overall financial planning for your business.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Insurance</title>
-      <link>//localhost:1313/service/insurance/</link>
+      <link>/service/insurance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/service/insurance/</guid>
+      <guid>/service/insurance/</guid>
       <description>&lt;h3 id=&#34;protection-made-personal&#34;&gt;Protection Made Personal&lt;/h3&gt;&#xA;&lt;p&gt;The start of financial planning and a critical option to safeguard your hard-earned funds and peace of mind; in difficult times of life.&lt;/p&gt;&#xA;&lt;p&gt;A strength to face the majority of challenges in one&amp;rsquo;s life that needs detailed planning, careful selection of options, and support from a trusted advisor.&lt;/p&gt;&#xA;&lt;p&gt;With us, unbiased advice, multiple options of the majority of insurers of all kinds of insurance, and much more are just a call away.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Investments</title>
-      <link>//localhost:1313/service/investment/</link>
+      <link>/service/investment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/service/investment/</guid>
+      <guid>/service/investment/</guid>
       <description>&lt;h3 id=&#34;building-wealth-maximizing-potential&#34;&gt;Building Wealth, Maximizing Potential&lt;/h3&gt;&#xA;&lt;p&gt;The next best thing is an investment if you have protected yourself with insurance options. With a gamut of variety of options suitable for all ages and financial statuses, one always needs experts to advise to decide on the most suitable investment options.&lt;/p&gt;&#xA;&lt;p&gt;We offer the majority of moderate-risk options which are required for most of us and make them easy to understand for your needs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Loans</title>
-      <link>//localhost:1313/service/loan/</link>
+      <link>/service/loan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/service/loan/</guid>
+      <guid>/service/loan/</guid>
       <description>&lt;h3 id=&#34;unlocking-opportunities-empowering-growth&#34;&gt;Unlocking Opportunities, Empowering Growth&lt;/h3&gt;&#xA;&lt;p&gt;Right from your small personal needs of quick money to large sums of the amount which will bring your dreams to true; we provide our expertise &amp;amp; network of lenders to get you the loans that are hassle-free, most cost-effective, and through a single advisor to avoid tiring efforts to deal with multiple agents or lenders.&lt;/p&gt;&#xA;&lt;p&gt;With us, your perception of the loan process will change and your experience will be much better than traditional agent services.&lt;/p&gt;</description>
     </item>
     <item>
       <title>NRI Service</title>
-      <link>//localhost:1313/service/nri-service/</link>
+      <link>/service/nri-service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/service/nri-service/</guid>
+      <guid>/service/nri-service/</guid>
       <description>&lt;p&gt;We offer comprehensive NRI services to help Non-Resident&#xA;Indians (NRIs) manage their finances and investments in India. Our services include portfolio management, investment advisory, wealth management, and tax planning. We understand the unique financial needs of NRIs and offer customized solutions that suit their individual requirements.&#xA;Our team of experts is well-versed in the regulatory framework for NRIs and provides professional advice to help our clients make informed investment decisions. With our expertise and reliable services, NRIs can rest assured that their finances are in safe hands, even while they are residing abroad.&lt;/p&gt;</description>
     </item>
   </channel>

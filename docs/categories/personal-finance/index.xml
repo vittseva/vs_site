@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal Finance on VittSeva</title>
-    <link>//localhost:1313/categories/personal-finance/</link>
+    <link>/categories/personal-finance/</link>
     <description>Recent content in Personal Finance on VittSeva</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 14 Oct 2025 00:30:00 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/personal-finance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/personal-finance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Your Retirement Corpus: How Much Do You Really Need?</title>
-      <link>//localhost:1313/blog/2025/10/14/2025-10-14-understanding-your-retirement-corpus-how-much-do-you-really-/</link>
+      <link>/blog/2025/10/14/2025-10-14-understanding-your-retirement-corpus-how-much-do-you-really-/</link>
       <pubDate>Tue, 14 Oct 2025 00:30:00 +0530</pubDate>
-      <guid>//localhost:1313/blog/2025/10/14/2025-10-14-understanding-your-retirement-corpus-how-much-do-you-really-/</guid>
+      <guid>/blog/2025/10/14/2025-10-14-understanding-your-retirement-corpus-how-much-do-you-really-/</guid>
       <description>Discover how to calculate your retirement corpus based on your current expenses and future needs.</description>
     </item>
     <item>
       <title>Navigating Personal Finance: Key Strategies for Your Financial Future</title>
-      <link>//localhost:1313/blog/2025/09/30/2025-09-30-navigating-personal-finance-key-strategies-for-your-financia/</link>
+      <link>/blog/2025/09/30/2025-09-30-navigating-personal-finance-key-strategies-for-your-financia/</link>
       <pubDate>Tue, 30 Sep 2025 00:00:00 +0530</pubDate>
-      <guid>//localhost:1313/blog/2025/09/30/2025-09-30-navigating-personal-finance-key-strategies-for-your-financia/</guid>
+      <guid>/blog/2025/09/30/2025-09-30-navigating-personal-finance-key-strategies-for-your-financia/</guid>
       <description>Explore essential strategies for managing your personal finances, from retirement planning to investment insights.</description>
     </item>
     <item>
       <title>Understanding Gold ETFs and Mutual Funds: Where Your Money Really Goes</title>
-      <link>//localhost:1313/blog/2025/09/16/2025-09-16-understanding-gold-etfs-and-mutual-funds-where-your-money-re/</link>
+      <link>/blog/2025/09/16/2025-09-16-understanding-gold-etfs-and-mutual-funds-where-your-money-re/</link>
       <pubDate>Tue, 16 Sep 2025 02:30:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/2025/09/16/2025-09-16-understanding-gold-etfs-and-mutual-funds-where-your-money-re/</guid>
+      <guid>/blog/2025/09/16/2025-09-16-understanding-gold-etfs-and-mutual-funds-where-your-money-re/</guid>
       <description>Explore the investment landscape of Gold ETFs and mutual funds to understand where your money is really going.</description>
     </item>
     <item>
       <title>Navigating India&#39;s New GST Landscape: What It Means for Your Wallet</title>
-      <link>//localhost:1313/blog/2025/09/14/2025-09-14-navigating-india-s-new-gst-landscape-what-it-means-for-your-/</link>
+      <link>/blog/2025/09/14/2025-09-14-navigating-india-s-new-gst-landscape-what-it-means-for-your-/</link>
       <pubDate>Sun, 14 Sep 2025 00:30:29 +0530</pubDate>
-      <guid>//localhost:1313/blog/2025/09/14/2025-09-14-navigating-india-s-new-gst-landscape-what-it-means-for-your-/</guid>
+      <guid>/blog/2025/09/14/2025-09-14-navigating-india-s-new-gst-landscape-what-it-means-for-your-/</guid>
       <description>India&amp;rsquo;s GST reforms simplify tax structures, impacting consumers and investors alike. Learn how these changes can affect your finances.</description>
     </item>
     <item>
       <title>Navigating the New GST Landscape: What It Means for Your Wallet</title>
-      <link>//localhost:1313/blog/2025/09/08/2025-09-08-navigating-the-new-gst-landscape-what-it-means-for-your-wall/</link>
+      <link>/blog/2025/09/08/2025-09-08-navigating-the-new-gst-landscape-what-it-means-for-your-wall/</link>
       <pubDate>Mon, 08 Sep 2025 06:05:28 +0530</pubDate>
-      <guid>//localhost:1313/blog/2025/09/08/2025-09-08-navigating-the-new-gst-landscape-what-it-means-for-your-wall/</guid>
+      <guid>/blog/2025/09/08/2025-09-08-navigating-the-new-gst-landscape-what-it-means-for-your-wall/</guid>
       <description>Explore the recent GST reforms in India and how they impact consumers and investors alike.</description>
     </item>
     <item>
       <title>Navigating Retirement: Is 3.5% the New Safe Withdrawal Rate?</title>
-      <link>//localhost:1313/blog/2025/08/30/2025-08-30-navigating-retirement-is-3-5-the-new-safe-withdrawal-rate/</link>
+      <link>/blog/2025/08/30/2025-08-30-navigating-retirement-is-3-5-the-new-safe-withdrawal-rate/</link>
       <pubDate>Sat, 30 Aug 2025 06:00:00 +0530</pubDate>
-      <guid>//localhost:1313/blog/2025/08/30/2025-08-30-navigating-retirement-is-3-5-the-new-safe-withdrawal-rate/</guid>
+      <guid>/blog/2025/08/30/2025-08-30-navigating-retirement-is-3-5-the-new-safe-withdrawal-rate/</guid>
       <description>Explore the evolving landscape of safe withdrawal rates for retirement and why 3.5% may be the new standard.</description>
     </item>
     <item>
       <title>Finding Balance in the Pursuit of Financial Freedom</title>
-      <link>//localhost:1313/blog/2025/08/14/2025-08-14-finding-balance-in-the-pursuit-of-financial-freedom/</link>
+      <link>/blog/2025/08/14/2025-08-14-finding-balance-in-the-pursuit-of-financial-freedom/</link>
       <pubDate>Thu, 14 Aug 2025 11:30:00 +0530</pubDate>
-      <guid>//localhost:1313/blog/2025/08/14/2025-08-14-finding-balance-in-the-pursuit-of-financial-freedom/</guid>
+      <guid>/blog/2025/08/14/2025-08-14-finding-balance-in-the-pursuit-of-financial-freedom/</guid>
       <description>Explore the journey towards financial freedom without sacrificing your happiness.</description>
     </item>
     <item>
       <title>Smart Strategies for Your Retirement Corpus: Making Rs 50 Lakh Work for You</title>
-      <link>//localhost:1313/blog/2025/07/29/2025-07-29-smart-strategies-for-your-retirement-corpus-making-rs-50-lak/</link>
+      <link>/blog/2025/07/29/2025-07-29-smart-strategies-for-your-retirement-corpus-making-rs-50-lak/</link>
       <pubDate>Tue, 29 Jul 2025 02:30:00 +0530</pubDate>
-      <guid>//localhost:1313/blog/2025/07/29/2025-07-29-smart-strategies-for-your-retirement-corpus-making-rs-50-lak/</guid>
+      <guid>/blog/2025/07/29/2025-07-29-smart-strategies-for-your-retirement-corpus-making-rs-50-lak/</guid>
       <description>Explore effective strategies for retirees to manage a Rs 50 lakh corpus for sustainable income.</description>
     </item>
     <item>
       <title>Navigating the Trap of Illiquid Wealth: What You Need to Know</title>
-      <link>//localhost:1313/blog/2025/07/14/2025-07-14-navigating-the-trap-of-illiquid-wealth-what-you-need-to-know/</link>
+      <link>/blog/2025/07/14/2025-07-14-navigating-the-trap-of-illiquid-wealth-what-you-need-to-know/</link>
       <pubDate>Mon, 14 Jul 2025 10:00:00 +0530</pubDate>
-      <guid>//localhost:1313/blog/2025/07/14/2025-07-14-navigating-the-trap-of-illiquid-wealth-what-you-need-to-know/</guid>
+      <guid>/blog/2025/07/14/2025-07-14-navigating-the-trap-of-illiquid-wealth-what-you-need-to-know/</guid>
       <description>Discover how to avoid the pitfalls of illiquid investments and plan for a secure financial future.</description>
     </item>
     <item>
       <title>Why Your Income Might Not Be Rising: Key Insights for Financial Growth</title>
-      <link>//localhost:1313/blog/2025/06/24/2025-06-24-why-your-income-might-not-be-rising-key-insights-for-financi/</link>
+      <link>/blog/2025/06/24/2025-06-24-why-your-income-might-not-be-rising-key-insights-for-financi/</link>
       <pubDate>Tue, 24 Jun 2025 11:22:02 +0530</pubDate>
-      <guid>//localhost:1313/blog/2025/06/24/2025-06-24-why-your-income-might-not-be-rising-key-insights-for-financi/</guid>
+      <guid>/blog/2025/06/24/2025-06-24-why-your-income-might-not-be-rising-key-insights-for-financi/</guid>
       <description>Explore the reasons behind stagnant income and how to foster financial growth.</description>
     </item>
   </channel>
